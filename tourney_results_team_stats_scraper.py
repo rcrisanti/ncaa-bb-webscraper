@@ -47,6 +47,9 @@ def get_teams_stats(root_url: str, append_urls: Sequence[str]) -> List[Dict[str,
     for url in tqdm.tqdm(list(urls)):
         team_stats = {}
         r = requests.get(url)
+        if r.status_code == 404:
+            print(f"error at url: {url}")
+
         soup = BeautifulSoup(r.content, "html.parser")
         per_game_tables = soup.find_all("table", id="schools_per_game")
         if len(per_game_tables) == 0:

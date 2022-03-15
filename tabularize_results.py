@@ -1,5 +1,4 @@
 import json
-import numpy as np
 import pandas as pd
 
 
@@ -52,6 +51,9 @@ def main():
     kenpom = kenpom_to_tabular("data/kenpom-data.json")
     tourney_res = tourney_res_to_tabular("data/tourney-results.json")
     team_stats = team_stats_to_tabular("data/team-stats.json")
+    team_stats_w_current = team_stats_to_tabular(
+        "data/team-stats-with-current-year.json"
+    )
 
     kenpom.to_csv("data/kenpom-data.csv", index=True)
     tourney_res.drop_duplicates(["Year", "WinningTeam", "LosingTeam"]).to_csv(
@@ -59,6 +61,9 @@ def main():
     )
     team_stats.drop_duplicates(["Team", "Year"]).to_csv(
         "data/team-stats.csv", index=False
+    )
+    team_stats_w_current.drop_duplicates(["Team", "Year"]).to_csv(
+        "data/team-stats-with-current-year.csv", index=False
     )
 
 
