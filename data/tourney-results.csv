@@ -1,0 +1,1246 @@
+Year,Date,Region,Round,PTS,OT,Diff,Location,WinningTeam,WinningSeed,LosingTeam,LosingSeed
+2021,"April 5, 2021",National,National Final,70,False,16,"Indianapolis, IN",Baylor,1,Gonzaga,1
+2021,"April 3, 2021",National,National Semifinal,90,True,3,"Indianapolis, IN",Gonzaga,1,UCLA,11
+2021,"April 3, 2021",National,National Semifinal,59,False,19,"Indianapolis, IN",Baylor,1,Houston,2
+2021,"March 30, 2021",East,Regional Final,49,False,2,"Indianapolis, IN",UCLA,11,Michigan,1
+2021,"March 30, 2021",West,Regional Final,66,False,19,"Indianapolis, IN",Gonzaga,1,USC,6
+2021,"March 29, 2021",Midwest,Regional Final,61,False,6,"Indianapolis, IN",Houston,2,Oregon State,12
+2021,"March 29, 2021",South,Regional Final,72,False,9,"Indianapolis, IN",Baylor,1,Arkansas,3
+2021,"March 28, 2021",East,Regional Semifinal,78,True,10,"Indianapolis, IN",UCLA,11,Alabama,2
+2021,"March 28, 2021",West,Regional Semifinal,68,False,14,"Indianapolis, IN",USC,6,Oregon,7
+2021,"March 28, 2021",East,Regional Semifinal,58,False,18,"Indianapolis, IN",Michigan,1,Florida State,4
+2021,"March 28, 2021",West,Regional Semifinal,65,False,18,"Indianapolis, IN",Gonzaga,1,Creighton,5
+2021,"March 27, 2021",Midwest,Regional Semifinal,58,False,7,"Indianapolis, IN",Oregon State,12,Loyola (IL),8
+2021,"March 27, 2021",Midwest,Regional Semifinal,46,False,16,"Indianapolis, IN",Houston,2,Syracuse,11
+2021,"March 27, 2021",South,Regional Semifinal,51,False,11,"Indianapolis, IN",Baylor,1,Villanova,5
+2021,"March 27, 2021",South,Regional Semifinal,70,False,2,"Indianapolis, IN",Arkansas,3,Oral Roberts,15
+2021,"March 22, 2021",East,Second Round,47,False,20,"Indianapolis, IN",UCLA,11,Abilene Christian,14
+2021,"March 22, 2021",West,Second Round,51,False,34,"Indianapolis, IN",USC,6,Kansas,3
+2021,"March 22, 2021",West,Second Round,80,False,15,"Indianapolis, IN",Oregon,7,Iowa,2
+2021,"March 22, 2021",East,Second Round,78,False,8,"Indianapolis, IN",Michigan,1,LSU,8
+2021,"March 22, 2021",West,Second Round,71,False,16,"Indianapolis, IN",Gonzaga,1,Oklahoma,8
+2021,"March 22, 2021",East,Second Round,53,False,18,"Indianapolis, IN",Florida State,4,Colorado,5
+2021,"March 22, 2021",West,Second Round,58,False,14,"Indianapolis, IN",Creighton,5,Ohio,13
+2021,"March 22, 2021",East,Second Round,77,False,19,"Indianapolis, IN",Alabama,2,Maryland,10
+2021,"March 21, 2021",South,Second Round,61,False,23,"Indianapolis, IN",Villanova,5,North Texas,13
+2021,"March 21, 2021",Midwest,Second Round,72,False,3,"Indianapolis, IN",Syracuse,11,West Virginia,3
+2021,"March 21, 2021",Midwest,Second Round,70,False,10,"Indianapolis, IN",Oregon State,12,Oklahoma State,4
+2021,"March 21, 2021",South,Second Round,78,False,3,"Indianapolis, IN",Oral Roberts,15,Florida,7
+2021,"March 21, 2021",Midwest,Second Round,58,False,13,"Indianapolis, IN",Loyola (IL),8,Illinois,1
+2021,"March 21, 2021",Midwest,Second Round,60,False,3,"Indianapolis, IN",Houston,2,Rutgers,10
+2021,"March 21, 2021",South,Second Round,63,False,13,"Indianapolis, IN",Baylor,1,Wisconsin,9
+2021,"March 21, 2021",South,Second Round,66,False,2,"Indianapolis, IN",Arkansas,3,Texas Tech,6
+2021,"March 20, 2021",East,First Round,62,False,11,"Indianapolis, IN",UCLA,11,BYU,6
+2021,"March 20, 2021",West,First Round,56,False,16,"Indianapolis, IN",USC,6,Drake,11
+2021,"March 20, 2021",West,First Round,68,False,4,"Indianapolis, IN",Oklahoma,8,Missouri,9
+2021,"March 20, 2021",West,First Round,58,False,4,"Bloomington, IN",Ohio,13,Virginia,4
+2021,"March 20, 2021",East,First Round,66,False,16,"West Lafayette, IN",Michigan,1,Texas Southern,16
+2021,"March 20, 2021",East,First Round,54,False,9,"West Lafayette, IN",Maryland,10,UConn,7
+2021,"March 20, 2021",East,First Round,61,False,15,"Bloomington, IN",LSU,8,St. Bonaventure,9
+2021,"March 20, 2021",West,First Round,84,False,9,"Indianapolis, IN",Kansas,3,Eastern Washington,14
+2021,"March 20, 2021",West,First Round,74,False,12,"Indianapolis, IN",Iowa,2,Grand Canyon,15
+2021,"March 20, 2021",West,First Round,55,False,43,"Indianapolis, IN",Gonzaga,1,Norfolk State,16
+2021,"March 20, 2021",East,First Round,54,False,10,"Indianapolis, IN",Florida State,4,UNC Greensboro,13
+2021,"March 20, 2021",West,First Round,62,False,1,"Indianapolis, IN",Creighton,5,UCSB,12
+2021,"March 20, 2021",East,First Round,73,False,23,"Indianapolis, IN",Colorado,5,Georgetown,12
+2021,"March 20, 2021",East,First Round,55,False,13,"Indianapolis, IN",Alabama,2,Iona,15
+2021,"March 20, 2021",East,First Round,52,False,1,"Indianapolis, IN",Abilene Christian,14,Texas,3
+2021,"March 19, 2021",South,First Round,62,False,23,"West Lafayette, IN",Wisconsin,9,UNC,8
+2021,"March 19, 2021",Midwest,First Round,67,False,17,"Indianapolis, IN",West Virginia,3,Morehead State,14
+2021,"March 19, 2021",South,First Round,63,False,10,"Indianapolis, IN",Villanova,5,Winthrop,12
+2021,"March 19, 2021",South,First Round,53,False,12,"Bloomington, IN",Texas Tech,6,Utah State,11
+2021,"March 19, 2021",Midwest,First Round,62,False,16,"Indianapolis, IN",Syracuse,11,San Diego State,6
+2021,"March 19, 2021",Midwest,First Round,56,False,4,"Indianapolis, IN",Rutgers,10,Clemson,7
+2021,"March 19, 2021",Midwest,First Round,56,False,14,"Indianapolis, IN",Oregon State,12,Tennessee,5
+2021,"March 19, 2021",South,First Round,72,True,3,"West Lafayette, IN",Oral Roberts,15,Ohio State,2
+2021,"March 19, 2021",Midwest,First Round,60,False,9,"Indianapolis, IN",Oklahoma State,4,Liberty,13
+2021,"March 19, 2021",South,First Round,69,True,9,"Indianapolis, IN",North Texas,13,Purdue,4
+2021,"March 19, 2021",Midwest,First Round,60,False,11,"Indianapolis, IN",Loyola (IL),8,Georgia Tech,9
+2021,"March 19, 2021",Midwest,First Round,49,False,29,"Indianapolis, IN",Illinois,1,Drexel,16
+2021,"March 19, 2021",Midwest,First Round,56,False,31,"Bloomington, IN",Houston,2,Cleveland State,15
+2021,"March 19, 2021",South,First Round,70,True,5,"Indianapolis, IN",Florida,7,Virginia Tech,10
+2021,"March 19, 2021",South,First Round,55,False,24,"Indianapolis, IN",Baylor,1,Hartford,16
+2021,"March 19, 2021",South,First Round,68,False,17,"Indianapolis, IN",Arkansas,3,Colgate,14
+2021,"March 18, 2021",East,First Four,80,True,6,"West Lafayette, IN",UCLA,11,Michigan State,11
+2021,"March 18, 2021",East,First Four,52,False,8,"Bloomington, IN",Texas Southern,16,Mount St. Mary's,16
+2021,"March 18, 2021",West,First Four,53,False,1,"Bloomington, IN",Norfolk State,16,Appalachian State,16
+2021,"March 18, 2021",West,First Four,52,False,1,"West Lafayette, IN",Drake,11,Wichita State,11
+2019,"April 8, 2019",National,National Final,77,True,8,"Minneapolis, MN",Virginia,1,Texas Tech,3
+2019,"April 6, 2019",National,National Semifinal,62,False,1,"Minneapolis, MN",Virginia,1,Auburn,5
+2019,"April 6, 2019",National,National Semifinal,51,False,10,"Minneapolis, MN",Texas Tech,3,Michigan State,2
+2019,"March 31, 2019",East,Regional Final,67,False,1,"Washington, DC",Michigan State,2,Duke,1
+2019,"March 31, 2019",Midwest,Regional Final,71,True,6,"Kansas City, MO",Auburn,5,Kentucky,2
+2019,"March 30, 2019",South,Regional Final,75,True,5,"Louisville, KY",Virginia,1,Purdue,3
+2019,"March 30, 2019",West,Regional Final,69,False,6,"Anaheim, CA",Texas Tech,3,Gonzaga,1
+2019,"March 29, 2019",East,Regional Semifinal,63,False,17,"Washington, DC",Michigan State,2,LSU,3
+2019,"March 29, 2019",Midwest,Regional Semifinal,58,False,4,"Kansas City, MO",Kentucky,2,Houston,3
+2019,"March 29, 2019",East,Regional Semifinal,73,False,2,"Washington, DC",Duke,1,Virginia Tech,4
+2019,"March 29, 2019",Midwest,Regional Semifinal,80,False,17,"Kansas City, MO",Auburn,5,UNC,1
+2019,"March 28, 2019",South,Regional Semifinal,49,False,4,"Louisville, KY",Virginia,1,Oregon,12
+2019,"March 28, 2019",West,Regional Semifinal,44,False,19,"Anaheim, CA",Texas Tech,3,Michigan,2
+2019,"March 28, 2019",South,Regional Semifinal,94,True,5,"Louisville, KY",Purdue,3,Tennessee,2
+2019,"March 28, 2019",West,Regional Semifinal,58,False,14,"Anaheim, CA",Gonzaga,1,Florida State,4
+2019,"March 24, 2019",East,Second Round,58,False,9,"San Jose, CA",Virginia Tech,4,Liberty,12
+2019,"March 24, 2019",South,Second Round,51,False,12,"Columbia, SC",Virginia,1,Oklahoma,9
+2019,"March 24, 2019",West,Second Round,58,False,20,"Tulsa, OK",Texas Tech,3,Buffalo,6
+2019,"March 24, 2019",South,Second Round,77,True,6,"Columbus, OH",Tennessee,2,Iowa,10
+2019,"March 24, 2019",South,Second Round,54,False,19,"San Jose, CA",Oregon,12,UC-Irvine,13
+2019,"March 24, 2019",Midwest,Second Round,59,False,22,"Columbus, OH",UNC,1,Washington,9
+2019,"March 24, 2019",Midwest,Second Round,59,False,15,"Tulsa, OK",Houston,3,Ohio State,11
+2019,"March 24, 2019",East,Second Round,76,False,1,"Columbia, SC",Duke,1,UCF,9
+2019,"March 23, 2019",South,Second Round,61,False,26,"Hartford, CT",Purdue,3,Villanova,6
+2019,"March 23, 2019",East,Second Round,50,False,20,"Des Moines, IA",Michigan State,2,Minnesota,10
+2019,"March 23, 2019",West,Second Round,49,False,15,"Des Moines, IA",Michigan,2,Florida,10
+2019,"March 23, 2019",East,Second Round,67,False,2,"Jacksonville, FL",LSU,3,Maryland,6
+2019,"March 23, 2019",Midwest,Second Round,56,False,6,"Jacksonville, FL",Kentucky,2,Wofford,7
+2019,"March 23, 2019",West,Second Round,71,False,12,"Salt Lake City, UT",Gonzaga,1,Baylor,9
+2019,"March 23, 2019",West,Second Round,62,False,28,"Hartford, CT",Florida State,4,Murray State,12
+2019,"March 23, 2019",Midwest,Second Round,75,False,14,"Salt Lake City, UT",Auburn,5,Kansas,4
+2019,"March 22, 2019",Midwest,First Round,61,False,17,"Columbus, OH",Washington,9,Utah State,8
+2019,"March 22, 2019",East,First Round,52,False,14,"San Jose, CA",Virginia Tech,4,Saint Louis,13
+2019,"March 22, 2019",South,First Round,56,False,15,"Columbia, SC",Virginia,1,Gardner-Webb,16
+2019,"March 22, 2019",Midwest,First Round,73,False,15,"Columbus, OH",UNC,1,Iona,16
+2019,"March 22, 2019",East,First Round,62,False,23,"Columbia, SC",Duke,1,North Dakota State,16
+2019,"March 22, 2019",South,First Round,72,False,23,"Columbia, SC",Oklahoma,9,Ole Miss,8
+2019,"March 22, 2019",South,First Round,70,False,7,"Columbus, OH",Tennessee,2,Colgate,15
+2019,"March 22, 2019",West,First Round,74,False,17,"Tulsa, OK",Buffalo,6,Arizona State,11
+2019,"March 22, 2019",Midwest,First Round,61,False,17,"Columbus, OH",Washington,9,Utah State,8
+2019,"March 22, 2019",South,First Round,56,False,15,"Columbia, SC",Virginia,1,Gardner-Webb,16
+2019,"March 22, 2019",Midwest,First Round,59,False,3,"Tulsa, OK",Ohio State,11,Iowa State,6
+2019,"March 22, 2019",South,First Round,64,False,6,"San Jose, CA",UC-Irvine,13,Kansas State,4
+2019,"March 22, 2019",East,First Round,58,False,15,"Columbia, SC",UCF,9,VCU,8
+2019,"March 22, 2019",Midwest,First Round,55,False,29,"Tulsa, OK",Houston,3,Georgia State,14
+2019,"March 22, 2019",East,First Round,76,False,4,"San Jose, CA",Liberty,12,Mississippi State,5
+2019,"March 22, 2019",East,First Round,52,False,14,"San Jose, CA",Virginia Tech,4,Saint Louis,13
+2019,"March 21, 2019",West,First Round,61,False,9,"Des Moines, IA",Florida,10,Nevada,7
+2019,"March 21, 2019",West,First Round,64,False,19,"Hartford, CT",Murray State,12,Marquette,5
+2019,"March 21, 2019",West,First Round,49,False,38,"Salt Lake City, UT",Gonzaga,1,Fairleigh Dickinson,16
+2019,"March 21, 2019",Midwest,First Round,53,False,34,"Salt Lake City, UT",Kansas,4,Northeastern,13
+2019,"March 21, 2019",East,First Round,76,False,10,"Des Moines, IA",Minnesota,10,Louisville,7
+2019,"March 21, 2019",Midwest,First Round,77,False,1,"Salt Lake City, UT",Auburn,5,New Mexico State,12
+2019,"March 21, 2019",West,First Round,69,False,9,"Salt Lake City, UT",Baylor,9,Syracuse,8
+2019,"March 21, 2019",Midwest,First Round,44,False,35,"Jacksonville, FL",Kentucky,2,Abilene Christian,15
+2019,"March 21, 2019",South,First Round,48,False,13,"Hartford, CT",Purdue,3,Old Dominion,14
+2019,"March 21, 2019",East,First Round,65,False,11,"Des Moines, IA",Michigan State,2,Bradley,15
+2019,"March 21, 2019",West,First Round,69,False,7,"Hartford, CT",Florida State,4,Vermont,13
+2019,"March 21, 2019",Midwest,First Round,68,False,16,"Jacksonville, FL",Wofford,7,Seton Hall,10
+2019,"March 21, 2019",West,First Round,55,False,19,"Des Moines, IA",Michigan,2,Montana,15
+2019,"March 21, 2019",East,First Round,77,False,2,"Jacksonville, FL",Maryland,6,Belmont,11
+2019,"March 21, 2019",South,First Round,57,False,4,"Hartford, CT",Villanova,6,Saint Mary's,11
+2019,"March 21, 2019",East,First Round,74,False,5,"Jacksonville, FL",LSU,3,Yale,14
+2019,"March 20, 2019",East,First Four,74,False,4,"Dayton, OH",North Dakota State,16,North Carolina Central,16
+2019,"March 20, 2019",West,First Four,65,False,9,"Dayton, OH",Arizona State,11,St. John's (NY),11
+2019,"March 19, 2019",East,First Four,70,False,11,"Dayton, OH",Belmont,11,Temple,11
+2019,"March 19, 2019",West,First Four,76,False,6,"Dayton, OH",Fairleigh Dickinson,16,Prairie View,16
+2018,"April 2, 2018",National,National Final,62,False,17,"San Antonio, TX",Villanova,1,Michigan,3
+2018,"March 31, 2018",National,National Semifinal,57,False,12,"San Antonio, TX",Michigan,3,Loyola (IL),11
+2018,"March 31, 2018",National,National Semifinal,79,False,16,"San Antonio, TX",Villanova,1,Kansas,1
+2018,"March 25, 2018",East,Regional Final,59,False,12,"Boston, MA",Villanova,1,Texas Tech,3
+2018,"March 25, 2018",Midwest,Regional Final,81,True,4,"Omaha, NE",Kansas,1,Duke,2
+2018,"March 24, 2018",South,Regional Final,62,False,16,"Atlanta, GA",Loyola (IL),11,Kansas State,9
+2018,"March 24, 2018",West,Regional Final,54,False,4,"Los Angeles, CA",Michigan,3,Florida State,9
+2018,"March 23, 2018",Midwest,Regional Semifinal,76,False,4,"Omaha, NE",Kansas,1,Clemson,5
+2018,"March 23, 2018",East,Regional Semifinal,65,False,13,"Boston, MA",Texas Tech,3,Purdue,2
+2018,"March 23, 2018",Midwest,Regional Semifinal,65,False,4,"Omaha, NE",Duke,2,Syracuse,11
+2018,"March 23, 2018",East,Regional Semifinal,78,False,12,"Boston, MA",Villanova,1,West Virginia,5
+2018,"March 22, 2018",South,Regional Semifinal,58,False,3,"Atlanta, GA",Kansas State,9,Kentucky,5
+2018,"March 22, 2018",West,Regional Semifinal,72,False,27,"Los Angeles, CA",Michigan,3,Texas A&M,7
+2018,"March 22, 2018",West,Regional Semifinal,60,False,15,"Los Angeles, CA",Florida State,9,Gonzaga,4
+2018,"March 22, 2018",South,Regional Semifinal,68,False,1,"Atlanta, GA",Loyola (IL),11,Nevada,7
+2018,"March 18, 2018",South,Second Round,73,False,2,"Nashville, TN",Nevada,7,Cincinnati,2
+2018,"March 18, 2018",West,Second Round,65,False,21,"Charlotte, NC",Texas A&M,7,UNC,2
+2018,"March 18, 2018",South,Second Round,43,False,7,"Charlotte, NC",Kansas State,9,UMBC,16
+2018,"March 18, 2018",Midwest,Second Round,53,False,31,"San Diego, CA",Clemson,5,Auburn,4
+2018,"March 18, 2018",Midwest,Second Round,53,False,2,"Detroit, MI",Syracuse,11,Michigan State,3
+2018,"March 18, 2018",West,Second Round,70,False,5,"Nashville, TN",Florida State,9,Xavier,1
+2018,"March 18, 2018",East,Second Round,71,False,23,"San Diego, CA",West Virginia,5,Marshall,13
+2018,"March 18, 2018",East,Second Round,73,False,3,"Detroit, MI",Purdue,2,Butler,10
+2018,"March 17, 2018",South,Second Round,75,False,20,"Boise, ID",Kentucky,5,Buffalo,13
+2018,"March 17, 2018",East,Second Round,58,False,23,"Pittsburgh, PA",Villanova,1,Alabama,9
+2018,"March 17, 2018",Midwest,Second Round,79,False,4,"Wichita, KS",Kansas,1,Seton Hall,8
+2018,"March 17, 2018",South,Second Round,62,False,1,"Dallas, TX",Loyola (IL),11,Tennessee,3
+2018,"March 17, 2018",West,Second Round,63,False,1,"Wichita, KS",Michigan,3,Houston,6
+2018,"March 17, 2018",Midwest,Second Round,62,False,25,"Pittsburgh, PA",Duke,2,Rhode Island,7
+2018,"March 17, 2018",East,Second Round,66,False,3,"Dallas, TX",Texas Tech,3,Florida,6
+2018,"March 17, 2018",West,Second Round,84,False,6,"Boise, ID",Gonzaga,4,Ohio State,5
+2018,"March 16, 2018",East,First Round,68,False,17,"San Diego, CA",West Virginia,5,Murray State,12
+2018,"March 16, 2018",Midwest,First Round,58,False,4,"San Diego, CA",Auburn,4,College of Charleston,13
+2018,"March 16, 2018",West,First Round,66,False,18,"Charlotte, NC",UNC,2,Lipscomb,15
+2018,"March 16, 2018",West,First Round,54,False,13,"Nashville, TN",Florida State,9,Missouri,8
+2018,"March 16, 2018",South,First Round,54,False,20,"Charlotte, NC",UMBC,16,Virginia,1
+2018,"March 16, 2018",South,First Round,83,True,4,"Nashville, TN",Nevada,7,Texas,10
+2018,"March 16, 2018",East,First Round,62,False,17,"Detroit, MI",Butler,10,Arkansas,7
+2018,"March 16, 2018",South,First Round,59,False,10,"Charlotte, NC",Kansas State,9,Creighton,8
+2018,"March 16, 2018",South,First Round,53,False,15,"Nashville, TN",Cincinnati,2,Georgia State,15
+2018,"March 16, 2018",Midwest,First Round,68,False,11,"San Diego, CA",Clemson,5,New Mexico State,12
+2018,"March 16, 2018",West,First Round,83,False,19,"Nashville, TN",Xavier,1,Texas Southern,16
+2018,"March 16, 2018",Midwest,First Round,52,False,5,"Detroit, MI",Syracuse,11,TCU,6
+2018,"March 16, 2018",East,First Round,48,False,26,"Detroit, MI",Purdue,2,Cal State Fullerton,15
+2018,"March 16, 2018",East,First Round,75,False,6,"San Diego, CA",Marshall,13,Wichita State,4
+2018,"March 16, 2018",Midwest,First Round,78,False,4,"Detroit, MI",Michigan State,3,Bucknell,14
+2018,"March 16, 2018",West,First Round,69,False,4,"Charlotte, NC",Texas A&M,7,Providence,10
+2018,"March 15, 2018",East,First Round,83,False,3,"Pittsburgh, PA",Alabama,9,Virginia Tech,8
+2018,"March 15, 2018",Midwest,First Round,67,False,22,"Pittsburgh, PA",Duke,2,Iona,15
+2018,"March 15, 2018",South,First Round,47,False,26,"Dallas, TX",Tennessee,3,Wright State,14
+2018,"March 15, 2018",West,First Round,47,False,14,"Wichita, KS",Michigan,3,Montana,14
+2018,"March 15, 2018",East,First Round,61,False,26,"Pittsburgh, PA",Villanova,1,Radford,16
+2018,"March 15, 2018",West,First Round,65,False,2,"Wichita, KS",Houston,6,San Diego State,11
+2018,"March 15, 2018",South,First Round,68,False,21,"Boise, ID",Buffalo,13,Arizona,4
+2018,"March 15, 2018",Midwest,First Round,83,False,11,"Wichita, KS",Seton Hall,8,NC State,9
+2018,"March 15, 2018",Midwest,First Round,60,False,16,"Wichita, KS",Kansas,1,Penn,16
+2018,"March 15, 2018",South,First Round,73,False,5,"Boise, ID",Kentucky,5,Davidson,12
+2018,"March 15, 2018",West,First Round,73,False,8,"Boise, ID",Ohio State,5,South Dakota State,12
+2018,"March 15, 2018",South,First Round,62,False,2,"Dallas, TX",Loyola (IL),11,Miami (FL),6
+2018,"March 15, 2018",West,First Round,64,False,4,"Boise, ID",Gonzaga,4,UNC Greensboro,13
+2018,"March 15, 2018",Midwest,First Round,78,True,5,"Pittsburgh, PA",Rhode Island,7,Oklahoma,10
+2018,"March 15, 2018",East,First Round,60,False,10,"Dallas, TX",Texas Tech,3,Stephen F. Austin,14
+2018,"March 15, 2018",East,First Round,62,False,15,"Dallas, TX",Florida,6,St. Bonaventure,11
+2018,"March 14, 2018",West,First Four,46,False,18,"Dayton, OH",Texas Southern,16,North Carolina Central,16
+2018,"March 14, 2018",Midwest,First Four,56,False,4,"Dayton, OH",Syracuse,11,Arizona State,11
+2018,"March 13, 2018",East,First Four,58,False,7,"Dayton, OH",St. Bonaventure,11,UCLA,11
+2018,"March 13, 2018",East,First Four,61,False,10,"Dayton, OH",Radford,16,LIU,16
+2017,"April 3, 2017",National,National Final,65,False,6,"Glendale, AZ",UNC,1,Gonzaga,1
+2017,"April 1, 2017",National,National Semifinal,73,False,4,"Glendale, AZ",Gonzaga,1,South Carolina,7
+2017,"April 1, 2017",National,National Semifinal,76,False,1,"Glendale, AZ",UNC,1,Oregon,3
+2017,"March 26, 2017",East,Regional Final,70,False,7,"New York, NY",South Carolina,7,Florida,4
+2017,"March 26, 2017",South,Regional Final,73,False,2,"Memphis, TN",UNC,1,Kentucky,2
+2017,"March 25, 2017",West,Regional Final,59,False,24,"San Jose, CA",Gonzaga,1,Xavier,11
+2017,"March 25, 2017",Midwest,Regional Final,60,False,14,"Kansas City, MO",Oregon,3,Kansas,1
+2017,"March 24, 2017",East,Regional Semifinal,50,False,20,"New York, NY",South Carolina,7,Baylor,3
+2017,"March 24, 2017",South,Regional Semifinal,75,False,11,"Memphis, TN",Kentucky,2,UCLA,3
+2017,"March 24, 2017",East,Regional Semifinal,83,True,1,"New York, NY",Florida,4,Wisconsin,8
+2017,"March 24, 2017",South,Regional Semifinal,80,False,12,"Memphis, TN",UNC,1,Butler,4
+2017,"March 23, 2017",Midwest,Regional Semifinal,66,False,32,"Kansas City, MO",Kansas,1,Purdue,4
+2017,"March 23, 2017",West,Regional Semifinal,58,False,3,"San Jose, CA",Gonzaga,1,West Virginia,4
+2017,"March 23, 2017",West,Regional Semifinal,71,False,2,"San Jose, CA",Xavier,11,Arizona,2
+2017,"March 23, 2017",Midwest,Regional Semifinal,68,False,1,"Kansas City, MO",Oregon,3,Michigan,7
+2017,"March 19, 2017",South,Second Round,67,False,12,"Sacramento, CA",UCLA,3,Cincinnati,6
+2017,"March 19, 2017",South,Second Round,65,False,7,"Greenville, SC",UNC,1,Arkansas,8
+2017,"March 19, 2017",Midwest,Second Round,70,False,20,"Tulsa, OK",Kansas,1,Michigan State,9
+2017,"March 19, 2017",East,Second Round,81,False,7,"Greenville, SC",South Carolina,7,Duke,2
+2017,"March 19, 2017",Midwest,Second Round,69,False,4,"Indianapolis, IN",Michigan,7,Louisville,2
+2017,"March 19, 2017",South,Second Round,62,False,3,"Indianapolis, IN",Kentucky,2,Wichita State,10
+2017,"March 19, 2017",East,Second Round,78,False,4,"Tulsa, OK",Baylor,3,USC,11
+2017,"March 19, 2017",Midwest,Second Round,72,False,3,"Sacramento, CA",Oregon,3,Rhode Island,11
+2017,"March 18, 2017",West,Second Round,73,False,6,"Salt Lake City, UT",Gonzaga,1,Northwestern,8
+2017,"March 18, 2017",West,Second Round,66,False,25,"Orlando, FL",Xavier,11,Florida State,3
+2017,"March 18, 2017",Midwest,Second Round,76,False,4,"Milwaukee, WI",Purdue,4,Iowa State,5
+2017,"March 18, 2017",West,Second Round,71,False,12,"Buffalo, NY",West Virginia,4,Notre Dame,5
+2017,"March 18, 2017",East,Second Round,39,False,26,"Orlando, FL",Florida,4,Virginia,5
+2017,"March 18, 2017",South,Second Round,65,False,9,"Milwaukee, WI",Butler,4,Middle Tennessee,12
+2017,"March 18, 2017",West,Second Round,60,False,9,"Salt Lake City, UT",Arizona,2,Saint Mary's,7
+2017,"March 18, 2017",East,Second Round,62,False,3,"Buffalo, NY",Wisconsin,8,Villanova,1
+2017,"March 17, 2017",Midwest,First Round,58,False,20,"Tulsa, OK",Michigan State,9,Miami (FL),8
+2017,"March 17, 2017",South,First Round,80,False,17,"Sacramento, CA",UCLA,3,Kent State,14
+2017,"March 17, 2017",East,First Round,65,False,22,"Greenville, SC",Duke,2,Troy,15
+2017,"March 17, 2017",Midwest,First Round,72,False,12,"Sacramento, CA",Rhode Island,11,Creighton,6
+2017,"March 17, 2017",South,First Round,64,False,39,"Greenville, SC",UNC,1,Texas Southern,16
+2017,"March 17, 2017",East,First Round,65,False,1,"Tulsa, OK",USC,11,SMU,6
+2017,"March 17, 2017",Midwest,First Round,62,False,38,"Tulsa, OK",Kansas,1,UC-Davis,16
+2017,"March 17, 2017",South,First Round,61,False,14,"Sacramento, CA",Cincinnati,6,Kansas State,11
+2017,"March 17, 2017",Midwest,First Round,63,False,15,"Indianapolis, IN",Louisville,2,Jacksonville State,15
+2017,"March 17, 2017",South,First Round,58,False,6,"Indianapolis, IN",Wichita State,10,Dayton,7
+2017,"March 17, 2017",Midwest,First Round,91,False,1,"Indianapolis, IN",Michigan,7,Oklahoma State,10
+2017,"March 17, 2017",East,First Round,73,False,20,"Greenville, SC",South Carolina,7,Marquette,10
+2017,"March 17, 2017",South,First Round,70,False,9,"Indianapolis, IN",Kentucky,2,Northern Kentucky,15
+2017,"March 17, 2017",East,First Round,73,False,18,"Tulsa, OK",Baylor,3,New Mexico State,14
+2017,"March 17, 2017",Midwest,First Round,77,False,16,"Sacramento, CA",Oregon,3,Iona,14
+2017,"March 17, 2017",South,First Round,71,False,6,"Greenville, SC",Arkansas,8,Seton Hall,9
+2017,"March 16, 2017",West,First Round,46,False,20,"Salt Lake City, UT",Gonzaga,1,South Dakota State,16
+2017,"March 16, 2017",Midwest,First Round,73,False,11,"Milwaukee, WI",Iowa State,5,Nevada,12
+2017,"March 16, 2017",West,First Round,65,False,11,"Orlando, FL",Xavier,11,Maryland,6
+2017,"March 16, 2017",Midwest,First Round,70,False,10,"Milwaukee, WI",Purdue,4,Vermont,13
+2017,"March 16, 2017",West,First Round,80,False,6,"Buffalo, NY",West Virginia,4,Bucknell,13
+2017,"March 16, 2017",West,First Round,77,False,8,"Salt Lake City, UT",Saint Mary's,7,VCU,10
+2017,"March 16, 2017",West,First Round,66,False,2,"Salt Lake City, UT",Northwestern,8,Vanderbilt,9
+2017,"March 16, 2017",East,First Round,65,False,15,"Orlando, FL",Florida,4,ETSU,13
+2017,"March 16, 2017",West,First Round,58,False,2,"Buffalo, NY",Notre Dame,5,Princeton,12
+2017,"March 16, 2017",South,First Round,72,False,9,"Milwaukee, WI",Middle Tennessee,12,Minnesota,5
+2017,"March 16, 2017",South,First Round,64,False,12,"Milwaukee, WI",Butler,4,Winthrop,13
+2017,"March 16, 2017",West,First Round,80,False,6,"Orlando, FL",Florida State,3,Florida Gulf Coast,14
+2017,"March 16, 2017",East,First Round,71,False,5,"Orlando, FL",Virginia,5,UNC Wilmington,12
+2017,"March 16, 2017",East,First Round,56,False,20,"Buffalo, NY",Villanova,1,Mount St. Mary's,16
+2017,"March 16, 2017",West,First Round,82,False,18,"Salt Lake City, UT",Arizona,2,North Dakota,15
+2017,"March 16, 2017",East,First Round,74,False,10,"Buffalo, NY",Wisconsin,8,Virginia Tech,9
+2017,"March 15, 2017",East,First Four,71,False,4,"Dayton, OH",USC,11,Providence,11
+2017,"March 15, 2017",Midwest,First Four,63,False,4,"Dayton, OH",UC-Davis,16,North Carolina Central,16
+2017,"March 14, 2017",East,First Four,66,False,1,"Dayton, OH",Mount St. Mary's,16,New Orleans,16
+2017,"March 14, 2017",South,First Four,88,False,7,"Dayton, OH",Kansas State,11,Wake Forest,11
+2016,"April 4, 2016",National,National Final,74,False,3,"Houston, TX",Villanova,2,UNC,1
+2016,"April 2, 2016",National,National Semifinal,66,False,17,"Houston, TX",UNC,1,Syracuse,10
+2016,"April 2, 2016",National,National Semifinal,51,False,44,"Houston, TX",Villanova,2,Oklahoma,2
+2016,"March 27, 2016",East,Regional Final,74,False,14,"Philadelphia, PA",UNC,1,Notre Dame,6
+2016,"March 27, 2016",Midwest,Regional Final,62,False,6,"Chicago, IL",Syracuse,10,Virginia,1
+2016,"March 26, 2016",West,Regional Final,68,False,12,"Anaheim, CA",Oklahoma,2,Oregon,1
+2016,"March 26, 2016",South,Regional Final,59,False,5,"Louisville, KY",Villanova,2,Kansas,1
+2016,"March 25, 2016",East,Regional Semifinal,86,False,15,"Philadelphia, PA",UNC,1,Indiana,5
+2016,"March 25, 2016",Midwest,Regional Semifinal,60,False,3,"Chicago, IL",Syracuse,10,Gonzaga,11
+2016,"March 25, 2016",East,Regional Semifinal,56,False,5,"Philadelphia, PA",Notre Dame,6,Wisconsin,7
+2016,"March 25, 2016",Midwest,Regional Semifinal,71,False,13,"Chicago, IL",Virginia,1,Iowa State,4
+2016,"March 24, 2016",South,Regional Semifinal,63,False,16,"Louisville, KY",Kansas,1,Maryland,5
+2016,"March 24, 2016",West,Regional Semifinal,63,False,14,"Anaheim, CA",Oklahoma,2,Texas A&M,3
+2016,"March 24, 2016",South,Regional Semifinal,69,False,23,"Louisville, KY",Villanova,2,Miami (FL),3
+2016,"March 24, 2016",West,Regional Semifinal,68,False,14,"Anaheim, CA",Oregon,1,Duke,4
+2016,"March 20, 2016",Midwest,Second Round,50,False,25,"St. Louis, MO",Syracuse,10,Middle Tennessee,15
+2016,"March 20, 2016",West,Second Round,81,False,4,"Oklahoma City, OK",Oklahoma,2,VCU,10
+2016,"March 20, 2016",West,Second Round,88,False,4,"Oklahoma City, OK",Texas A&M,3,Northern Iowa,11
+2016,"March 20, 2016",South,Second Round,68,False,19,"Brooklyn, NY",Villanova,2,Iowa,7
+2016,"March 20, 2016",East,Second Round,75,False,1,"Brooklyn, NY",Notre Dame,6,Stephen F. Austin,14
+2016,"March 20, 2016",West,Second Round,64,False,5,"Spokane, WA",Oregon,1,St. Joseph's,8
+2016,"March 20, 2016",East,Second Round,63,False,3,"St. Louis, MO",Wisconsin,7,Xavier,2
+2016,"March 20, 2016",South,Second Round,60,False,13,"Spokane, WA",Maryland,5,Hawaii,13
+2016,"March 19, 2016",East,Second Round,67,False,6,"Des Moines, IA",Indiana,5,Kentucky,4
+2016,"March 19, 2016",Midwest,Second Round,59,False,23,"Denver, CO",Gonzaga,11,Utah,3
+2016,"March 19, 2016",Midwest,Second Round,69,False,8,"Raleigh, NC",Virginia,1,Butler,9
+2016,"March 19, 2016",South,Second Round,61,False,12,"Des Moines, IA",Kansas,1,UConn,9
+2016,"March 19, 2016",East,Second Round,66,False,19,"Raleigh, NC",UNC,1,Providence,9
+2016,"March 19, 2016",Midwest,Second Round,61,False,17,"Denver, CO",Iowa State,4,Little Rock,12
+2016,"March 19, 2016",West,Second Round,64,False,7,"Providence, RI",Duke,4,Yale,12
+2016,"March 19, 2016",South,Second Round,57,False,8,"Providence, RI",Miami (FL),3,Wichita State,11
+2016,"March 18, 2016",West,First Round,76,False,2,"Spokane, WA",St. Joseph's,8,Cincinnati,9
+2016,"March 18, 2016",East,First Round,53,False,18,"St. Louis, MO",Xavier,2,Weber State,15
+2016,"March 18, 2016",West,First Round,68,False,14,"Oklahoma City, OK",Oklahoma,2,Cal State Bakersfield,15
+2016,"March 18, 2016",South,First Round,74,False,5,"Spokane, WA",Maryland,5,South Dakota State,12
+2016,"March 18, 2016",West,First Round,52,False,39,"Spokane, WA",Oregon,1,Holy Cross,16
+2016,"March 18, 2016",East,First Round,56,False,14,"Brooklyn, NY",Stephen F. Austin,14,West Virginia,3
+2016,"March 18, 2016",East,First Round,43,False,4,"St. Louis, MO",Wisconsin,7,Pitt,10
+2016,"March 18, 2016",East,First Round,63,False,7,"Brooklyn, NY",Notre Dame,6,Michigan,11
+2016,"March 18, 2016",West,First Round,65,False,27,"Oklahoma City, OK",Texas A&M,3,Green Bay,14
+2016,"March 18, 2016",West,First Round,72,False,3,"Oklahoma City, OK",Northern Iowa,11,Texas,6
+2016,"March 18, 2016",South,First Round,70,True,2,"Brooklyn, NY",Iowa,7,Temple,10
+2016,"March 18, 2016",West,First Round,67,False,8,"Oklahoma City, OK",VCU,10,Oregon State,7
+2016,"March 18, 2016",West,First Round,76,False,2,"Spokane, WA",St. Joseph's,8,Cincinnati,9
+2016,"March 18, 2016",Midwest,First Round,81,False,9,"St. Louis, MO",Middle Tennessee,15,Michigan State,2
+2016,"March 18, 2016",South,First Round,66,False,11,"Spokane, WA",Hawaii,13,California,4
+2016,"March 18, 2016",South,First Round,56,False,30,"Brooklyn, NY",Villanova,2,UNC Asheville,15
+2016,"March 17, 2016",West,First Round,75,False,4,"Providence, RI",Yale,12,Baylor,5
+2016,"March 17, 2016",South,First Round,72,False,7,"Providence, RI",Miami (FL),3,Buffalo,14
+2016,"March 17, 2016",East,First Round,57,False,28,"Des Moines, IA",Kentucky,4,Stony Brook,13
+2016,"March 17, 2016",South,First Round,79,False,26,"Des Moines, IA",Kansas,1,Austin Peay,16
+2016,"March 17, 2016",Midwest,First Round,81,False,13,"Denver, CO",Iowa State,4,Iona,13
+2016,"March 17, 2016",East,First Round,74,False,25,"Des Moines, IA",Indiana,5,Chattanooga,12
+2016,"March 17, 2016",Midwest,First Round,69,False,11,"Denver, CO",Utah,3,Fresno State,14
+2016,"March 17, 2016",Midwest,First Round,52,False,16,"Denver, CO",Gonzaga,11,Seton Hall,6
+2016,"March 17, 2016",East,First Round,69,False,1,"Raleigh, NC",Providence,9,USC,8
+2016,"March 17, 2016",South,First Round,55,False,10,"Providence, RI",Wichita State,11,Arizona,6
+2016,"March 17, 2016",Midwest,First Round,61,False,10,"Raleigh, NC",Butler,9,Texas Tech,8
+2016,"March 17, 2016",South,First Round,67,False,7,"Des Moines, IA",UConn,9,Colorado,8
+2016,"March 17, 2016",Midwest,First Round,45,False,36,"Raleigh, NC",Virginia,1,Hampton,16
+2016,"March 17, 2016",East,First Round,67,False,16,"Raleigh, NC",UNC,1,Florida Gulf Coast,16
+2016,"March 17, 2016",Midwest,First Round,83,False,2,"Denver, CO",Little Rock,12,Purdue,5
+2016,"March 17, 2016",West,First Round,85,False,8,"Providence, RI",Duke,4,UNC Wilmington,13
+2016,"March 16, 2016",West,First Four,55,False,4,"Dayton, OH",Holy Cross,16,Southern,16
+2016,"March 16, 2016",East,First Four,62,False,5,"Dayton, OH",Michigan,11,Tulsa,11
+2016,"March 15, 2016",South,First Four,50,False,20,"Dayton, OH",Wichita State,11,Vanderbilt,11
+2016,"March 15, 2016",East,First Four,65,False,31,"Dayton, OH",Florida Gulf Coast,16,Fairleigh Dickinson,16
+2015,"April 6, 2015",National,National Final,63,False,5,"Indianapolis, IN",Duke,1,Wisconsin,1
+2015,"April 4, 2015",National,National Semifinal,64,False,7,"Indianapolis, IN",Wisconsin,1,Kentucky,1
+2015,"April 4, 2015",National,National Semifinal,61,False,20,"Indianapolis, IN",Duke,1,Michigan State,7
+2015,"March 29, 2015",East,Regional Final,70,True,6,"Syracuse, NY",Michigan State,7,Louisville,4
+2015,"March 29, 2015",South,Regional Final,52,False,14,"Houston, TX",Duke,1,Gonzaga,2
+2015,"March 28, 2015",Midwest,Regional Final,66,False,2,"Cleveland, OH",Kentucky,1,Notre Dame,3
+2015,"March 28, 2015",West,Regional Final,78,False,7,"Los Angeles, CA",Wisconsin,1,Arizona,2
+2015,"March 27, 2015",South,Regional Semifinal,62,False,12,"Houston, TX",Gonzaga,2,UCLA,11
+2015,"March 27, 2015",East,Regional Semifinal,65,False,10,"Syracuse, NY",Louisville,4,NC State,8
+2015,"March 27, 2015",East,Regional Semifinal,58,False,4,"Syracuse, NY",Michigan State,7,Oklahoma,3
+2015,"March 27, 2015",South,Regional Semifinal,57,False,6,"Houston, TX",Duke,1,Utah,5
+2015,"March 26, 2015",Midwest,Regional Semifinal,70,False,11,"Cleveland, OH",Notre Dame,3,Wichita State,7
+2015,"March 26, 2015",Midwest,Regional Semifinal,39,False,39,"Cleveland, OH",Kentucky,1,West Virginia,5
+2015,"March 26, 2015",West,Regional Semifinal,60,False,8,"Los Angeles, CA",Arizona,2,Xavier,6
+2015,"March 26, 2015",West,Regional Semifinal,72,False,7,"Los Angeles, CA",Wisconsin,1,UNC,4
+2015,"March 22, 2015",South,Third Round,68,False,19,"Seattle, WA",Gonzaga,2,Iowa,7
+2015,"March 22, 2015",Midwest,Third Round,65,False,13,"Omaha, NE",Wichita State,7,Kansas,2
+2015,"March 22, 2015",East,Third Round,66,False,6,"Columbus, OH",Oklahoma,3,Dayton,11
+2015,"March 22, 2015",Midwest,Third Round,59,False,10,"Columbus, OH",West Virginia,5,Maryland,4
+2015,"March 22, 2015",East,Third Round,53,False,13,"Seattle, WA",Louisville,4,Northern Iowa,5
+2015,"March 22, 2015",East,Third Round,54,False,6,"Charlotte, NC",Michigan State,7,Virginia,2
+2015,"March 22, 2015",West,Third Round,65,False,7,"Omaha, NE",Wisconsin,1,Oregon,8
+2015,"March 22, 2015",South,Third Round,49,False,19,"Charlotte, NC",Duke,1,San Diego State,8
+2015,"March 21, 2015",West,Third Round,67,False,8,"Jacksonville, FL",Xavier,6,Georgia State,14
+2015,"March 21, 2015",Midwest,Third Round,64,True,3,"Pittsburgh, PA",Notre Dame,3,Butler,6
+2015,"March 21, 2015",East,Third Round,68,False,3,"Pittsburgh, PA",NC State,8,Villanova,1
+2015,"March 21, 2015",Midwest,Third Round,51,False,13,"Louisville, KY",Kentucky,1,Cincinnati,8
+2015,"March 21, 2015",West,Third Round,58,False,15,"Portland, OR",Arizona,2,Ohio State,10
+2015,"March 21, 2015",West,Third Round,78,False,9,"Jacksonville, FL",UNC,4,Arkansas,5
+2015,"March 21, 2015",South,Third Round,64,False,11,"Portland, OR",Utah,5,Georgetown,4
+2015,"March 21, 2015",South,Third Round,75,False,17,"Louisville, KY",UCLA,11,UAB,14
+2015,"March 20, 2015",Midwest,Second Round,76,False,5,"Omaha, NE",Wichita State,7,Indiana,10
+2015,"March 20, 2015",East,Second Round,54,False,17,"Seattle, WA",Northern Iowa,5,Wyoming,12
+2015,"March 20, 2015",Midwest,Second Round,56,False,19,"Omaha, NE",Kansas,2,New Mexico State,15
+2015,"March 20, 2015",Midwest,Second Round,62,False,6,"Columbus, OH",West Virginia,5,Buffalo,12
+2015,"March 20, 2015",East,Second Round,53,False,13,"Columbus, OH",Dayton,11,Providence,6
+2015,"March 20, 2015",West,Second Round,72,False,14,"Omaha, NE",Wisconsin,1,Coastal Carolina,16
+2015,"March 20, 2015",East,Second Round,63,False,7,"Charlotte, NC",Michigan State,7,Georgia,10
+2015,"March 20, 2015",South,Second Round,56,False,29,"Charlotte, NC",Duke,1,Robert Morris,16
+2015,"March 20, 2015",East,Second Round,60,False,9,"Columbus, OH",Oklahoma,3,Albany (NY),14
+2015,"March 20, 2015",South,Second Round,64,False,12,"Charlotte, NC",San Diego State,8,St. John's (NY),9
+2015,"March 20, 2015",South,Second Round,52,False,31,"Seattle, WA",Iowa,7,Davidson,10
+2015,"March 20, 2015",East,Second Round,55,False,2,"Seattle, WA",Louisville,4,UC-Irvine,13
+2015,"March 20, 2015",Midwest,Second Round,62,False,3,"Columbus, OH",Maryland,4,Valparaiso,13
+2015,"March 20, 2015",East,Second Round,67,False,12,"Charlotte, NC",Virginia,2,Belmont,15
+2015,"March 20, 2015",West,Second Round,73,False,6,"Omaha, NE",Oregon,8,Oklahoma State,9
+2015,"March 20, 2015",South,Second Round,76,False,10,"Seattle, WA",Gonzaga,2,North Dakota State,15
+2015,"March 19, 2015",Midwest,Second Round,65,False,4,"Pittsburgh, PA",Notre Dame,3,Northeastern,14
+2015,"March 19, 2015",West,Second Round,72,False,21,"Portland, OR",Arizona,2,Texas Southern,15
+2015,"March 19, 2015",East,Second Round,65,False,1,"Pittsburgh, PA",NC State,8,LSU,9
+2015,"March 19, 2015",West,Second Round,65,False,2,"Jacksonville, FL",UNC,4,Harvard,13
+2015,"March 19, 2015",West,Second Round,72,True,3,"Portland, OR",Ohio State,10,VCU,7
+2015,"March 19, 2015",West,Second Round,56,False,1,"Jacksonville, FL",Georgia State,14,Baylor,3
+2015,"March 19, 2015",West,Second Round,57,False,19,"Jacksonville, FL",Xavier,6,Ole Miss,11
+2015,"March 19, 2015",Midwest,Second Round,56,False,23,"Louisville, KY",Kentucky,1,Hampton,16
+2015,"March 19, 2015",East,Second Round,52,False,41,"Pittsburgh, PA",Villanova,1,Lafayette,16
+2015,"March 19, 2015",South,Second Round,59,False,1,"Louisville, KY",UAB,14,Iowa State,3
+2015,"March 19, 2015",Midwest,Second Round,48,False,8,"Pittsburgh, PA",Butler,6,Texas,11
+2015,"March 19, 2015",Midwest,Second Round,65,True,1,"Louisville, KY",Cincinnati,8,Purdue,9
+2015,"March 19, 2015",South,Second Round,59,False,1,"Louisville, KY",UCLA,11,SMU,6
+2015,"March 19, 2015",South,Second Round,74,False,10,"Portland, OR",Georgetown,4,Eastern Washington,13
+2015,"March 19, 2015",West,Second Round,53,False,3,"Jacksonville, FL",Arkansas,5,Wofford,12
+2015,"March 19, 2015",South,Second Round,50,False,7,"Portland, OR",Utah,5,Stephen F. Austin,12
+2015,"March 18, 2015",East,First Round,55,False,1,"Dayton, OH",Dayton,11,Boise State,11
+2015,"March 18, 2015",South,First Round,77,False,4,"Dayton, OH",Robert Morris,16,North Florida,16
+2015,"March 17, 2015",West,First Round,90,False,4,"Dayton, OH",Ole Miss,11,BYU,11
+2015,"March 17, 2015",Midwest,First Round,64,False,10,"Dayton, OH",Hampton,16,Manhattan,16
+2014,"April 7, 2014",National,National Final,54,False,6,"Arlington, TX",UConn,7,Kentucky,8
+2014,"April 5, 2014",National,National Semifinal,73,False,1,"Arlington, TX",Kentucky,8,Wisconsin,2
+2014,"April 5, 2014",National,National Semifinal,53,False,10,"Arlington, TX",UConn,7,Florida,1
+2014,"March 30, 2014",Midwest,Regional Final,72,False,3,"Indianapolis, IN",Kentucky,8,Michigan,2
+2014,"March 30, 2014",East,Regional Final,54,False,6,"New York, NY",UConn,7,Michigan State,4
+2014,"March 29, 2014",South,Regional Final,52,False,10,"Memphis, TN",Florida,1,Dayton,11
+2014,"March 29, 2014",West,Regional Final,63,True,1,"Anaheim, CA",Wisconsin,2,Arizona,1
+2014,"March 28, 2014",East,Regional Semifinal,59,False,2,"New York, NY",Michigan State,4,Virginia,1
+2014,"March 28, 2014",Midwest,Regional Semifinal,69,False,5,"Indianapolis, IN",Kentucky,8,Louisville,4
+2014,"March 28, 2014",Midwest,Regional Semifinal,71,False,2,"Indianapolis, IN",Michigan,2,Tennessee,11
+2014,"March 28, 2014",East,Regional Semifinal,76,False,5,"New York, NY",UConn,7,Iowa State,3
+2014,"March 27, 2014",West,Regional Semifinal,64,False,6,"Anaheim, CA",Arizona,1,San Diego State,4
+2014,"March 27, 2014",South,Regional Semifinal,68,False,11,"Memphis, TN",Florida,1,UCLA,4
+2014,"March 27, 2014",West,Regional Semifinal,52,False,17,"Anaheim, CA",Wisconsin,2,Baylor,6
+2014,"March 27, 2014",South,Regional Semifinal,72,False,10,"Memphis, TN",Dayton,11,Stanford,10
+2014,"March 23, 2014",East,Third Round,60,False,18,"Raleigh, NC",Virginia,1,Memphis,8
+2014,"March 23, 2014",West,Third Round,61,False,23,"San Diego, CA",Arizona,1,Gonzaga,8
+2014,"March 23, 2014",South,Third Round,57,False,3,"St. Louis, MO",Stanford,10,Kansas,2
+2014,"March 23, 2014",West,Third Round,55,False,30,"San Antonio, TX",Baylor,6,Creighton,3
+2014,"March 23, 2014",East,Third Round,83,False,2,"San Antonio, TX",Iowa State,3,UNC,6
+2014,"March 23, 2014",Midwest,Third Round,63,False,20,"Raleigh, NC",Tennessee,11,Mercer,14
+2014,"March 23, 2014",South,Third Round,60,False,17,"San Diego, CA",UCLA,4,Stephen F. Austin,12
+2014,"March 23, 2014",Midwest,Third Round,76,False,2,"St. Louis, MO",Kentucky,8,Wichita State,1
+2014,"March 22, 2014",West,Third Round,44,False,19,"Spokane, WA",San Diego State,4,North Dakota State,12
+2014,"March 22, 2014",South,Third Round,45,False,16,"Orlando, FL",Florida,1,Pitt,9
+2014,"March 22, 2014",Midwest,Third Round,51,False,15,"Orlando, FL",Louisville,4,Saint Louis,5
+2014,"March 22, 2014",East,Third Round,73,False,7,"Spokane, WA",Michigan State,4,Harvard,12
+2014,"March 22, 2014",West,Third Round,77,False,8,"Milwaukee, WI",Wisconsin,2,Oregon,7
+2014,"March 22, 2014",South,Third Round,53,False,2,"Buffalo, NY",Dayton,11,Syracuse,3
+2014,"March 22, 2014",Midwest,Third Round,65,False,14,"Milwaukee, WI",Michigan,2,Texas,7
+2014,"March 22, 2014",East,Third Round,65,False,12,"Buffalo, NY",UConn,7,Villanova,2
+2014,"March 21, 2014",Midwest,Second Round,37,False,27,"St. Louis, MO",Wichita State,1,Cal Poly,16
+2014,"March 21, 2014",West,Second Round,59,False,9,"San Diego, CA",Arizona,1,Weber State,16
+2014,"March 21, 2014",West,Second Round,60,False,14,"San Antonio, TX",Baylor,6,Nebraska,11
+2014,"March 21, 2014",South,Second Round,75,True,2,"San Diego, CA",Stephen F. Austin,12,VCU,5
+2014,"March 21, 2014",East,Second Round,66,False,5,"Raleigh, NC",Memphis,8,George Washington,9
+2014,"March 21, 2014",Midwest,Second Round,71,False,7,"Raleigh, NC",Mercer,14,Duke,3
+2014,"March 21, 2014",Midwest,Second Round,67,False,19,"Raleigh, NC",Tennessee,11,UMass,6
+2014,"March 21, 2014",Midwest,Second Round,49,False,7,"St. Louis, MO",Kentucky,8,Kansas State,9
+2014,"March 21, 2014",West,Second Round,77,False,8,"San Diego, CA",Gonzaga,8,Oklahoma State,9
+2014,"March 21, 2014",South,Second Round,69,False,11,"St. Louis, MO",Kansas,2,Eastern Kentucky,15
+2014,"March 21, 2014",East,Second Round,59,False,11,"Raleigh, NC",Virginia,1,Coastal Carolina,16
+2014,"March 21, 2014",South,Second Round,53,False,5,"St. Louis, MO",Stanford,10,New Mexico,7
+2014,"March 21, 2014",West,Second Round,66,False,10,"San Antonio, TX",Creighton,3,Louisiana,14
+2014,"March 21, 2014",East,Second Round,75,False,18,"San Antonio, TX",Iowa State,3,North Carolina Central,14
+2014,"March 21, 2014",East,Second Round,77,False,2,"San Antonio, TX",UNC,6,Providence,11
+2014,"March 21, 2014",South,Second Round,59,False,17,"San Diego, CA",UCLA,4,Tulsa,13
+2014,"March 20, 2014",South,Second Round,48,False,29,"Orlando, FL",Pitt,9,Colorado,8
+2014,"March 20, 2014",South,Second Round,53,False,24,"Buffalo, NY",Syracuse,3,Western Michigan,14
+2014,"March 20, 2014",West,Second Round,75,True,5,"Spokane, WA",North Dakota State,12,Oklahoma,5
+2014,"March 20, 2014",Midwest,Second Round,85,False,2,"Milwaukee, WI",Texas,7,Arizona State,10
+2014,"March 20, 2014",East,Second Round,81,True,8,"Buffalo, NY",UConn,7,St. Joseph's,10
+2014,"March 20, 2014",West,Second Round,68,False,19,"Milwaukee, WI",Oregon,7,BYU,10
+2014,"March 20, 2014",East,Second Round,57,False,4,"Spokane, WA",Harvard,12,Cincinnati,5
+2014,"March 20, 2014",West,Second Round,69,True,4,"Spokane, WA",San Diego State,4,New Mexico State,13
+2014,"March 20, 2014",Midwest,Second Round,40,False,17,"Milwaukee, WI",Michigan,2,Wofford,15
+2014,"March 20, 2014",East,Second Round,53,False,20,"Buffalo, NY",Villanova,2,Milwaukee,15
+2014,"March 20, 2014",South,Second Round,55,False,12,"Orlando, FL",Florida,1,Albany (NY),16
+2014,"March 20, 2014",Midwest,Second Round,64,False,7,"Orlando, FL",Louisville,4,Manhattan,13
+2014,"March 20, 2014",South,Second Round,59,False,1,"Buffalo, NY",Dayton,11,Ohio State,6
+2014,"March 20, 2014",Midwest,Second Round,80,True,3,"Orlando, FL",Saint Louis,5,NC State,12
+2014,"March 20, 2014",West,Second Round,35,False,40,"Milwaukee, WI",Wisconsin,2,American,15
+2014,"March 20, 2014",East,Second Round,78,False,15,"Spokane, WA",Michigan State,4,Delaware,13
+2014,"March 19, 2014",Midwest,First Round,69,False,12,"Dayton, OH",Cal Poly,16,Texas Southern,16
+2014,"March 19, 2014",Midwest,First Round,65,True,13,"Dayton, OH",Tennessee,11,Iowa,11
+2014,"March 18, 2014",Midwest,First Round,59,False,15,"Dayton, OH",NC State,12,Xavier,12
+2014,"March 18, 2014",South,First Round,64,False,7,"Dayton, OH",Albany (NY),16,Mount St. Mary's,16
+2013,"April 8, 2013",National,National Final,76,False,6,"Atlanta, GA",Louisville,1,Michigan,4
+2013,"April 6, 2013",National,National Semifinal,56,False,5,"Atlanta, GA",Michigan,4,Syracuse,4
+2013,"April 6, 2013",National,National Semifinal,68,False,4,"Atlanta, GA",Louisville,1,Wichita State,9
+2013,"March 31, 2013",South,Regional Final,59,False,20,"Arlington, TX",Michigan,4,Florida,3
+2013,"March 31, 2013",Midwest,Regional Final,63,False,22,"Indianapolis, IN",Louisville,1,Duke,2
+2013,"March 30, 2013",East,Regional Final,39,False,16,"Washington, DC",Syracuse,4,Marquette,3
+2013,"March 30, 2013",West,Regional Final,66,False,4,"Los Angeles, CA",Wichita State,9,Ohio State,2
+2013,"March 29, 2013",South,Regional Semifinal,85,True,2,"Arlington, TX",Michigan,4,Kansas,1
+2013,"March 29, 2013",South,Regional Semifinal,50,False,12,"Arlington, TX",Florida,3,Florida Gulf Coast,15
+2013,"March 29, 2013",Midwest,Regional Semifinal,69,False,8,"Indianapolis, IN",Louisville,1,Oregon,12
+2013,"March 29, 2013",Midwest,Regional Semifinal,61,False,10,"Indianapolis, IN",Duke,2,Michigan State,3
+2013,"March 28, 2013",West,Regional Semifinal,58,False,14,"Los Angeles, CA",Wichita State,9,La Salle,13
+2013,"March 28, 2013",East,Regional Semifinal,61,False,10,"Washington, DC",Marquette,3,Miami (FL),2
+2013,"March 28, 2013",East,Regional Semifinal,50,False,11,"Washington, DC",Syracuse,4,Indiana,1
+2013,"March 28, 2013",West,Regional Semifinal,70,False,3,"Los Angeles, CA",Ohio State,2,Arizona,6
+2013,"March 24, 2013",East,Third Round,59,False,4,"Austin, TX",Miami (FL),2,Illinois,7
+2013,"March 24, 2013",South,Third Round,71,False,10,"Philadelphia, PA",Florida Gulf Coast,15,San Diego State,7
+2013,"March 24, 2013",South,Third Round,64,False,14,"Austin, TX",Florida,3,Minnesota,11
+2013,"March 24, 2013",East,Third Round,52,False,6,"Dayton, OH",Indiana,1,Temple,9
+2013,"March 24, 2013",Midwest,Third Round,50,False,16,"Philadelphia, PA",Duke,2,Creighton,7
+2013,"March 24, 2013",West,Third Round,74,False,2,"Kansas City, MO",La Salle,13,Ole Miss,12
+2013,"March 24, 2013",South,Third Round,58,False,12,"Kansas City, MO",Kansas,1,UNC,8
+2013,"March 24, 2013",West,Third Round,75,False,3,"Dayton, OH",Ohio State,2,Iowa State,10
+2013,"March 23, 2013",East,Third Round,72,False,2,"Lexington, KY",Marquette,3,Butler,6
+2013,"March 23, 2013",East,Third Round,60,False,6,"San Jose, CA",Syracuse,4,California,12
+2013,"March 23, 2013",Midwest,Third Round,56,False,26,"Lexington, KY",Louisville,1,Colorado State,8
+2013,"March 23, 2013",Midwest,Third Round,48,False,22,"Auburn Hills, MI",Michigan State,3,Memphis,6
+2013,"March 23, 2013",Midwest,Third Round,57,False,17,"San Jose, CA",Oregon,12,Saint Louis,4
+2013,"March 23, 2013",West,Third Round,51,False,23,"Salt Lake City, UT",Arizona,6,Harvard,14
+2013,"March 23, 2013",South,Third Round,53,False,25,"Auburn Hills, MI",Michigan,4,VCU,5
+2013,"March 23, 2013",West,Third Round,70,False,6,"Salt Lake City, UT",Wichita State,9,Gonzaga,1
+2013,"March 22, 2013",South,Second Round,47,False,32,"Austin, TX",Florida,3,Northwestern State,14
+2013,"March 22, 2013",Midwest,Second Round,63,False,4,"Philadelphia, PA",Creighton,7,Cincinnati,10
+2013,"March 22, 2013",South,Second Round,71,False,7,"Kansas City, MO",UNC,8,Villanova,9
+2013,"March 22, 2013",Midwest,Second Round,61,False,12,"Philadelphia, PA",Duke,2,Albany (NY),15
+2013,"March 22, 2013",South,Second Round,47,False,32,"Austin, TX",Florida,3,Northwestern State,14
+2013,"March 22, 2013",South,Second Round,68,False,10,"Philadelphia, PA",Florida Gulf Coast,15,Georgetown,2
+2013,"March 22, 2013",South,Second Round,55,False,15,"Philadelphia, PA",San Diego State,7,Oklahoma,10
+2013,"March 22, 2013",West,Second Round,46,False,11,"Kansas City, MO",Ole Miss,12,Wisconsin,5
+2013,"March 22, 2013",South,Second Round,63,False,20,"Austin, TX",Minnesota,11,UCLA,6
+2013,"March 22, 2013",East,Second Round,49,False,8,"Austin, TX",Illinois,7,Colorado,10
+2013,"March 22, 2013",East,Second Round,62,False,21,"Dayton, OH",Indiana,1,James Madison,16
+2013,"March 22, 2013",West,Second Round,58,False,18,"Dayton, OH",Iowa State,10,Notre Dame,7
+2013,"March 22, 2013",South,Second Round,57,False,7,"Kansas City, MO",Kansas,1,Western Kentucky,16
+2013,"March 22, 2013",West,Second Round,61,False,2,"Kansas City, MO",La Salle,13,Kansas State,4
+2013,"March 22, 2013",East,Second Round,49,False,29,"Austin, TX",Miami (FL),2,Pacific,15
+2013,"March 22, 2013",East,Second Round,72,False,4,"Dayton, OH",Temple,9,NC State,8
+2013,"March 21, 2013",Midwest,Second Round,55,False,13,"San Jose, CA",Oregon,12,Oklahoma State,5
+2013,"March 21, 2013",West,Second Round,64,False,17,"Salt Lake City, UT",Arizona,6,Belmont,11
+2013,"March 21, 2013",East,Second Round,56,False,12,"Lexington, KY",Butler,6,Bucknell,11
+2013,"March 21, 2013",East,Second Round,61,False,3,"San Jose, CA",California,12,UNLV,5
+2013,"March 21, 2013",Midwest,Second Round,72,False,12,"Lexington, KY",Colorado State,8,Missouri,9
+2013,"March 21, 2013",West,Second Round,55,False,18,"Salt Lake City, UT",Wichita State,9,Pitt,8
+2013,"March 21, 2013",South,Second Round,42,False,46,"Auburn Hills, MI",VCU,5,Akron,12
+2013,"March 21, 2013",Midwest,Second Round,44,False,20,"San Jose, CA",Saint Louis,4,New Mexico State,13
+2013,"March 21, 2013",West,Second Round,58,False,6,"Salt Lake City, UT",Gonzaga,1,Southern,16
+2013,"March 21, 2013",West,Second Round,62,False,6,"Salt Lake City, UT",Harvard,14,New Mexico,3
+2013,"March 21, 2013",Midwest,Second Round,54,False,11,"Auburn Hills, MI",Michigan State,3,Valparaiso,14
+2013,"March 21, 2013",South,Second Round,56,False,15,"Auburn Hills, MI",Michigan,4,South Dakota State,13
+2013,"March 21, 2013",Midwest,Second Round,52,False,2,"Auburn Hills, MI",Memphis,6,Saint Mary's,11
+2013,"March 21, 2013",Midwest,Second Round,48,False,31,"Lexington, KY",Louisville,1,North Carolina A&T,16
+2013,"March 21, 2013",East,Second Round,34,False,47,"San Jose, CA",Syracuse,4,Montana,13
+2013,"March 21, 2013",East,Second Round,58,False,1,"Lexington, KY",Marquette,3,Davidson,14
+2013,"March 20, 2013",East,First Round,55,False,13,"Dayton, OH",James Madison,16,LIU,16
+2013,"March 20, 2013",West,First Round,71,False,9,"Dayton, OH",La Salle,13,Boise State,13
+2013,"March 19, 2013",Midwest,First Round,72,False,1,"Dayton, OH",North Carolina A&T,16,Liberty,16
+2013,"March 19, 2013",Midwest,First Round,54,False,13,"Dayton, OH",Saint Mary's,11,Middle Tennessee,11
+2012,"April 2, 2012",National,National Final,59,False,8,"New Orleans, LA",Kentucky,1,Kansas,2
+2012,"March 31, 2012",National,National Semifinal,62,False,2,"New Orleans, LA",Kansas,2,Ohio State,2
+2012,"March 31, 2012",National,National Semifinal,61,False,8,"New Orleans, LA",Kentucky,1,Louisville,4
+2012,"March 25, 2012",Midwest,Regional Final,67,False,13,"St. Louis, MO",Kansas,2,UNC,1
+2012,"March 25, 2012",South,Regional Final,70,False,12,"Atlanta, GA",Kentucky,1,Baylor,3
+2012,"March 24, 2012",East,Regional Final,70,False,7,"Boston, MA",Ohio State,2,Syracuse,1
+2012,"March 24, 2012",West,Regional Final,68,False,4,"Phoenix, AZ",Louisville,4,Florida,7
+2012,"March 23, 2012",South,Regional Semifinal,70,False,5,"Atlanta, GA",Baylor,3,Xavier,10
+2012,"March 23, 2012",Midwest,Regional Semifinal,65,True,8,"St. Louis, MO",UNC,1,Ohio,13
+2012,"March 23, 2012",Midwest,Regional Semifinal,57,False,3,"St. Louis, MO",Kansas,2,NC State,11
+2012,"March 23, 2012",South,Regional Semifinal,90,False,12,"Atlanta, GA",Kentucky,1,Indiana,4
+2012,"March 22, 2012",East,Regional Semifinal,66,False,15,"Boston, MA",Ohio State,2,Cincinnati,6
+2012,"March 22, 2012",West,Regional Semifinal,58,False,10,"Phoenix, AZ",Florida,7,Marquette,3
+2012,"March 22, 2012",West,Regional Semifinal,44,False,13,"Phoenix, AZ",Louisville,4,Michigan State,1
+2012,"March 22, 2012",East,Regional Semifinal,63,False,1,"Boston, MA",Syracuse,1,Wisconsin,4
+2012,"March 18, 2012",Midwest,Third Round,60,False,3,"Omaha, NE",Kansas,2,Purdue,10
+2012,"March 18, 2012",Midwest,Third Round,56,False,6,"Nashville, TN",Ohio,13,South Florida,12
+2012,"March 18, 2012",Midwest,Third Round,63,False,3,"Columbus, OH",NC State,11,Georgetown,3
+2012,"March 18, 2012",Midwest,Third Round,73,False,14,"Greensboro, NC",UNC,1,Creighton,8
+2012,"March 18, 2012",West,Third Round,61,False,4,"Columbus, OH",Michigan State,1,Saint Louis,9
+2012,"March 18, 2012",South,Third Round,58,False,12,"Greensboro, NC",Xavier,10,Lehigh,15
+2012,"March 18, 2012",East,Third Round,56,False,6,"Nashville, TN",Cincinnati,6,Florida State,3
+2012,"March 18, 2012",West,Third Round,50,False,34,"Omaha, NE",Florida,7,Norfolk State,15
+2012,"March 17, 2012",West,Third Round,53,False,9,"Louisville, KY",Marquette,3,Murray State,6
+2012,"March 17, 2012",East,Third Round,59,False,16,"Pittsburgh, PA",Syracuse,1,Kansas State,8
+2012,"March 17, 2012",South,Third Round,63,False,17,"The Pit, Al",Baylor,3,Colorado,11
+2012,"March 17, 2012",East,Third Round,57,False,3,"Albuquerque, NM",Wisconsin,4,Vanderbilt,5
+2012,"March 17, 2012",West,Third Round,56,False,3,"Portland, OR",Louisville,4,New Mexico,5
+2012,"March 17, 2012",East,Third Round,66,False,7,"Pittsburgh, PA",Ohio State,2,Gonzaga,7
+2012,"March 17, 2012",South,Third Round,71,False,16,"Louisville, KY",Kentucky,1,Iowa State,8
+2012,"March 17, 2012",South,Third Round,61,False,2,"Portland, OR",Indiana,4,VCU,12
+2012,"March 16, 2012",South,Second Round,63,False,4,"Greensboro, NC",Xavier,10,Notre Dame,7
+2012,"March 16, 2012",Midwest,Second Round,60,False,5,"Nashville, TN",Ohio,13,Michigan,4
+2012,"March 16, 2012",East,Second Round,59,False,6,"Nashville, TN",Cincinnati,6,Texas,11
+2012,"March 16, 2012",Midwest,Second Round,65,False,14,"Columbus, OH",NC State,11,San Diego State,6
+2012,"March 16, 2012",Midwest,Second Round,69,False,3,"Omaha, NE",Purdue,10,Saint Mary's,7
+2012,"March 16, 2012",Midwest,Second Round,57,False,1,"Greensboro, NC",Creighton,8,Alabama,9
+2012,"March 16, 2012",Midwest,Second Round,58,False,19,"Greensboro, NC",UNC,1,Vermont,16
+2012,"March 16, 2012",West,Second Round,84,False,2,"Omaha, NE",Norfolk State,15,Missouri,2
+2012,"March 16, 2012",West,Second Round,54,False,7,"Columbus, OH",Saint Louis,9,Memphis,8
+2012,"March 16, 2012",West,Second Round,45,False,26,"Omaha, NE",Florida,7,Virginia,10
+2012,"March 16, 2012",East,Second Round,63,False,3,"Nashville, TN",Florida State,3,St. Bonaventure,14
+2012,"March 16, 2012",Midwest,Second Round,59,False,15,"Columbus, OH",Georgetown,3,Belmont,14
+2012,"March 16, 2012",Midwest,Second Round,44,False,14,"Nashville, TN",South Florida,12,Temple,5
+2012,"March 16, 2012",South,Second Round,70,False,5,"Greensboro, NC",Lehigh,15,Duke,2
+2012,"March 16, 2012",West,Second Round,67,False,22,"Columbus, OH",Michigan State,1,LIU,16
+2012,"March 16, 2012",Midwest,Second Round,50,False,15,"Omaha, NE",Kansas,2,Detroit,15
+2012,"March 15, 2012",West,Second Round,68,False,20,"Louisville, KY",Marquette,3,BYU,14
+2012,"March 15, 2012",South,Second Round,60,False,8,"Albuquerque, NM",Baylor,3,South Dakota State,14
+2012,"March 15, 2012",East,Second Round,49,False,24,"Albuquerque, NM",Wisconsin,4,Montana,13
+2012,"March 15, 2012",East,Second Round,59,False,19,"Pittsburgh, PA",Ohio State,2,Loyola (MD),15
+2012,"March 15, 2012",South,Second Round,64,False,4,"Albuquerque, NM",Colorado,11,UNLV,6
+2012,"March 15, 2012",South,Second Round,59,False,3,"Portland, OR",VCU,12,Wichita State,5
+2012,"March 15, 2012",West,Second Round,68,False,7,"Portland, OR",New Mexico,5,Long Beach State,12
+2012,"March 15, 2012",West,Second Round,41,False,17,"Louisville, KY",Murray State,6,Colorado State,11
+2012,"March 15, 2012",East,Second Round,54,False,23,"Pittsburgh, PA",Gonzaga,7,West Virginia,10
+2012,"March 15, 2012",East,Second Round,70,False,9,"Albuquerque, NM",Vanderbilt,5,Harvard,12
+2012,"March 15, 2012",South,Second Round,66,False,13,"Portland, OR",Indiana,4,New Mexico State,13
+2012,"March 15, 2012",South,Second Round,64,False,13,"Louisville, KY",Iowa State,8,UConn,9
+2012,"March 15, 2012",East,Second Round,64,False,6,"Pittsburgh, PA",Kansas State,8,Southern Miss,9
+2012,"March 15, 2012",South,Second Round,66,False,15,"Louisville, KY",Kentucky,1,Western Kentucky,16
+2012,"March 15, 2012",West,Second Round,62,False,7,"Portland, OR",Louisville,4,Davidson,13
+2012,"March 15, 2012",East,Second Round,65,False,7,"Pittsburgh, PA",Syracuse,1,UNC Asheville,16
+2012,"March 14, 2012",Midwest,First Round,59,False,12,"Dayton, OH",Vermont,16,Lamar,16
+2012,"March 14, 2012",Midwest,First Round,54,False,11,"Dayton, OH",South Florida,12,California,12
+2012,"March 13, 2012",West,First Round,72,False,6,"Dayton, OH",BYU,14,Iona,14
+2012,"March 13, 2012",South,First Round,58,False,1,"Dayton, OH",Western Kentucky,16,Mississippi Valley State,16
+2011,"April 4, 2011",National,National Final,41,False,12,"Houston, TX",UConn,3,Butler,8
+2011,"April 2, 2011",National,National Semifinal,62,False,8,"Houston, TX",Butler,8,VCU,11
+2011,"April 2, 2011",National,National Semifinal,55,False,1,"Houston, TX",UConn,3,Kentucky,4
+2011,"March 27, 2011",East,Regional Final,69,False,7,"Newark, NJ",Kentucky,4,UNC,2
+2011,"March 27, 2011",Southwest,Regional Final,61,False,10,"San Antonio, TX",VCU,11,Kansas,1
+2011,"March 26, 2011",Southeast,Regional Final,71,True,3,"New Orleans, LA",Butler,8,Florida,2
+2011,"March 26, 2011",West,Regional Final,63,False,2,"Anaheim, CA",UConn,3,Arizona,5
+2011,"March 25, 2011",Southwest,Regional Semifinal,57,False,20,"San Antonio, TX",Kansas,1,Richmond,12
+2011,"March 25, 2011",East,Regional Semifinal,60,False,2,"Newark, NJ",Kentucky,4,Ohio State,1
+2011,"March 25, 2011",East,Regional Semifinal,63,False,18,"Newark, NJ",UNC,2,Marquette,11
+2011,"March 25, 2011",Southwest,Regional Semifinal,71,True,1,"San Antonio, TX",VCU,11,Florida State,10
+2011,"March 24, 2011",West,Regional Semifinal,77,False,16,"Anaheim, CA",Arizona,5,Duke,1
+2011,"March 24, 2011",Southeast,Regional Semifinal,54,False,7,"New Orleans, LA",Butler,8,Wisconsin,4
+2011,"March 24, 2011",West,Regional Semifinal,67,False,7,"Anaheim, CA",UConn,3,San Diego State,2
+2011,"March 24, 2011",Southeast,Regional Semifinal,74,True,9,"New Orleans, LA",Florida,2,BYU,3
+2011,"March 20, 2011",West,Third Round,69,False,1,"Tulsa, OK",Arizona,5,Texas,4
+2011,"March 20, 2011",West,Third Round,71,False,2,"Charlotte, NC",Duke,1,Michigan,8
+2011,"March 20, 2011",Southwest,Third Round,57,False,14,"Chicago, IL",Florida State,10,Notre Dame,2
+2011,"March 20, 2011",Southwest,Third Round,59,False,14,"Tulsa, OK",Kansas,1,Illinois,9
+2011,"March 20, 2011",East,Third Round,62,False,4,"Cleveland, OH",Marquette,11,Syracuse,3
+2011,"March 20, 2011",East,Third Round,83,False,3,"Charlotte, NC",UNC,2,Washington,7
+2011,"March 20, 2011",East,Third Round,66,False,32,"Cleveland, OH",Ohio State,1,George Mason,8
+2011,"March 20, 2011",Southwest,Third Round,76,False,18,"Chicago, IL",VCU,11,Purdue,3
+2011,"March 19, 2011",Southeast,Third Round,67,False,22,"Denver, CO",BYU,3,Gonzaga,11
+2011,"March 19, 2011",Southeast,Third Round,70,False,1,"Washington, DC",Butler,8,Pitt,1
+2011,"March 19, 2011",West,Third Round,58,False,11,"Washington, DC",UConn,3,Cincinnati,6
+2011,"March 19, 2011",Southeast,Third Round,65,False,8,"Tampa, FL",Florida,2,UCLA,7
+2011,"March 19, 2011",East,Third Round,63,False,8,"Tampa, FL",Kentucky,4,West Virginia,5
+2011,"March 19, 2011",Southwest,Third Round,48,False,17,"Denver, CO",Richmond,12,Morehead State,13
+2011,"March 19, 2011",West,Third Round,64,False,7,"Tucson, AZ",San Diego State,2,Temple,7
+2011,"March 19, 2011",Southeast,Third Round,65,False,5,"Tucson, AZ",Wisconsin,4,Kansas State,5
+2011,"March 18, 2011",West,Second Round,75,False,2,"Tulsa, OK",Arizona,5,Memphis,12
+2011,"March 18, 2011",West,Second Round,45,False,42,"Charlotte, NC",Duke,1,Hampton,16
+2011,"March 18, 2011",Southwest,Second Round,50,False,7,"Chicago, IL",Florida State,10,Texas A&M,7
+2011,"March 18, 2011",East,Second Round,57,False,4,"Cleveland, OH",George Mason,8,Villanova,9
+2011,"March 18, 2011",Southwest,Second Round,62,False,11,"Tulsa, OK",Illinois,9,UNLV,8
+2011,"March 18, 2011",Southwest,Second Round,53,False,19,"Tulsa, OK",Kansas,1,Boston University,16
+2011,"March 18, 2011",East,Second Round,55,False,11,"Cleveland, OH",Marquette,11,Xavier,6
+2011,"March 18, 2011",West,Second Round,45,False,30,"Charlotte, NC",Michigan,8,Tennessee,9
+2011,"March 18, 2011",East,Second Round,87,False,15,"Charlotte, NC",UNC,2,LIU,15
+2011,"March 18, 2011",Southwest,Second Round,56,False,13,"Chicago, IL",Notre Dame,2,Akron,15
+2011,"March 18, 2011",East,Second Round,46,False,29,"Cleveland, OH",Ohio State,1,UTSA,16
+2011,"March 18, 2011",Southwest,Second Round,43,False,22,"Chicago, IL",Purdue,3,St. Peter's,14
+2011,"March 18, 2011",East,Second Round,60,False,17,"Cleveland, OH",Syracuse,3,Indiana State,14
+2011,"March 18, 2011",West,Second Round,81,False,4,"Tulsa, OK",Texas,4,Oakland,13
+2011,"March 18, 2011",Southwest,Second Round,56,False,18,"Chicago, IL",VCU,11,Georgetown,6
+2011,"March 18, 2011",East,Second Round,65,False,3,"Charlotte, NC",Washington,7,Georgia,10
+2011,"March 17, 2011",Southeast,Second Round,66,False,8,"Denver, CO",BYU,3,Wofford,14
+2011,"March 17, 2011",Southeast,Second Round,58,False,2,"Washington, DC",Butler,8,Old Dominion,9
+2011,"March 17, 2011",West,Second Round,63,False,15,"Washington, DC",Cincinnati,6,Missouri,11
+2011,"March 17, 2011",West,Second Round,52,False,29,"Washington, DC",UConn,3,Bucknell,14
+2011,"March 17, 2011",Southeast,Second Round,51,False,28,"Tampa, FL",Florida,2,UCSB,15
+2011,"March 17, 2011",Southeast,Second Round,71,False,15,"Denver, CO",Gonzaga,11,St. John's (NY),6
+2011,"March 17, 2011",Southeast,Second Round,68,False,5,"Tucson, AZ",Kansas State,5,Utah State,12
+2011,"March 17, 2011",East,Second Round,57,False,2,"Tampa, FL",Kentucky,4,Princeton,13
+2011,"March 17, 2011",Southwest,Second Round,61,False,1,"Denver, CO",Morehead State,13,Louisville,4
+2011,"March 17, 2011",Southeast,Second Round,51,False,23,"Washington, DC",Pitt,1,UNC Asheville,16
+2011,"March 17, 2011",Southwest,Second Round,66,False,3,"Denver, CO",Richmond,12,Vanderbilt,5
+2011,"March 17, 2011",West,Second Round,50,False,18,"Tucson, AZ",San Diego State,2,Northern Colorado,15
+2011,"March 17, 2011",West,Second Round,64,False,2,"Tucson, AZ",Temple,7,Penn State,10
+2011,"March 17, 2011",Southeast,Second Round,76,False,2,"Tampa, FL",UCLA,7,Michigan State,10
+2011,"March 17, 2011",East,Second Round,76,False,8,"Tampa, FL",West Virginia,5,Clemson,12
+2011,"March 17, 2011",Southeast,Second Round,58,False,14,"Tucson, AZ",Wisconsin,4,Belmont,13
+2011,"March 16, 2011",East,First Round,61,False,9,"Dayton, OH",UTSA,16,Alabama State,16
+2011,"March 16, 2011",Southwest,First Round,46,False,13,"Dayton, OH",VCU,11,USC,11
+2011,"March 15, 2011",East,First Round,52,False,18,"Dayton, OH",Clemson,12,UAB,12
+2011,"March 15, 2011",Southeast,First Round,77,True,4,"Dayton, OH",UNC Asheville,16,Little Rock,16
+2010,"April 5, 2010",National,National Final,59,False,2,"Indianapolis, IN",Duke,1,Butler,5
+2010,"April 3, 2010",National,National Semifinal,50,False,2,"Indianapolis, IN",Butler,5,Michigan State,5
+2010,"April 3, 2010",National,National Semifinal,57,False,21,"Indianapolis, IN",Duke,1,West Virginia,2
+2010,"March 28, 2010",South,Regional Final,71,False,7,"Houston, TX",Duke,1,Baylor,3
+2010,"March 28, 2010",Midwest,Regional Final,69,False,1,"St. Louis, MO",Michigan State,5,Tennessee,6
+2010,"March 27, 2010",West,Regional Final,56,False,7,"Salt Lake City, UT",Butler,5,Kansas State,2
+2010,"March 27, 2010",East,Regional Final,66,False,7,"Syracuse, NY",West Virginia,2,Kentucky,1
+2010,"March 26, 2010",South,Regional Semifinal,49,False,23,"Houston, TX",Baylor,3,Saint Mary's,10
+2010,"March 26, 2010",South,Regional Semifinal,57,False,13,"Houston, TX",Duke,1,Purdue,4
+2010,"March 26, 2010",Midwest,Regional Semifinal,52,False,7,"St. Louis, MO",Michigan State,5,Northern Iowa,9
+2010,"March 26, 2010",Midwest,Regional Semifinal,73,False,3,"St. Louis, MO",Tennessee,6,Ohio State,2
+2010,"March 25, 2010",West,Regional Semifinal,59,False,4,"Salt Lake City, UT",Butler,5,Syracuse,1
+2010,"March 25, 2010",West,Regional Semifinal,96,False,5,"Salt Lake City, UT",Kansas State,2,Xavier,6
+2010,"March 25, 2010",East,Regional Semifinal,45,False,17,"Syracuse, NY",Kentucky,1,Cornell,12
+2010,"March 25, 2010",East,Regional Semifinal,56,False,13,"Syracuse, NY",West Virginia,2,Washington,11
+2010,"March 21, 2010",East,Second Round,69,False,18,"Jacksonville, FL",Cornell,12,Wisconsin,4
+2010,"March 21, 2010",South,Second Round,53,False,15,"Jacksonville, FL",Duke,1,California,8
+2010,"March 21, 2010",Midwest,Second Round,83,False,2,"Spokane, WA",Michigan State,5,Maryland,4
+2010,"March 21, 2010",Midwest,Second Round,66,False,9,"Milwaukee, WI",Ohio State,2,Georgia Tech,10
+2010,"March 21, 2010",South,Second Round,61,True,2,"Spokane, WA",Purdue,4,Texas A&M,5
+2010,"March 21, 2010",West,Second Round,65,False,22,"Buffalo, NY",Syracuse,1,Gonzaga,8
+2010,"March 21, 2010",East,Second Round,59,False,9,"Buffalo, NY",West Virginia,2,Missouri,10
+2010,"March 21, 2010",West,Second Round,68,False,3,"Milwaukee, WI",Xavier,6,Pitt,3
+2010,"March 20, 2010",South,Second Round,68,False,8,"New Orleans, LA",Baylor,3,Old Dominion,11
+2010,"March 20, 2010",West,Second Round,52,False,2,"San Jose, CA",Butler,5,Murray State,13
+2010,"March 20, 2010",West,Second Round,72,False,12,"Oklahoma City, OK",Kansas State,2,BYU,7
+2010,"March 20, 2010",East,Second Round,60,False,30,"New Orleans, LA",Kentucky,1,Wake Forest,9
+2010,"March 20, 2010",Midwest,Second Round,67,False,2,"Oklahoma City, OK",Northern Iowa,9,Kansas,1
+2010,"March 20, 2010",South,Second Round,68,False,7,"Providence, RI",Saint Mary's,10,Villanova,2
+2010,"March 20, 2010",Midwest,Second Round,68,False,15,"Providence, RI",Tennessee,6,Ohio,14
+2010,"March 20, 2010",East,Second Round,64,False,18,"San Jose, CA",Washington,11,New Mexico,3
+2010,"March 19, 2010",South,First Round,62,False,15,"Jacksonville, FL",California,8,Louisville,9
+2010,"March 19, 2010",East,First Round,65,False,13,"Jacksonville, FL",Cornell,12,Temple,5
+2010,"March 19, 2010",South,First Round,44,False,29,"Jacksonville, FL",Duke,1,Arkansas-Pine Bluff,16
+2010,"March 19, 2010",Midwest,First Round,59,False,5,"Milwaukee, WI",Georgia Tech,10,Oklahoma State,7
+2010,"March 19, 2010",West,First Round,60,False,7,"Buffalo, NY",Gonzaga,8,Florida State,9
+2010,"March 19, 2010",Midwest,First Round,77,False,12,"Spokane, WA",Maryland,4,Houston,13
+2010,"March 19, 2010",Midwest,First Round,67,False,3,"Spokane, WA",Michigan State,5,New Mexico State,12
+2010,"March 19, 2010",East,First Round,78,False,8,"Buffalo, NY",Missouri,10,Clemson,7
+2010,"March 19, 2010",Midwest,First Round,51,False,17,"Milwaukee, WI",Ohio State,2,UCSB,15
+2010,"March 19, 2010",West,First Round,66,False,23,"Milwaukee, WI",Pitt,3,Oakland,14
+2010,"March 19, 2010",South,First Round,64,False,8,"Spokane, WA",Purdue,4,Siena,13
+2010,"March 19, 2010",West,First Round,56,False,23,"Buffalo, NY",Syracuse,1,Vermont,16
+2010,"March 19, 2010",South,First Round,53,False,16,"Spokane, WA",Texas A&M,5,Utah State,12
+2010,"March 19, 2010",East,First Round,50,False,27,"Buffalo, NY",West Virginia,2,Morgan State,15
+2010,"March 19, 2010",East,First Round,49,False,4,"Jacksonville, FL",Wisconsin,4,Wofford,13
+2010,"March 19, 2010",West,First Round,54,False,11,"Milwaukee, WI",Xavier,6,Minnesota,11
+2010,"March 18, 2010",South,First Round,59,False,9,"New Orleans, LA",Baylor,3,Sam Houston State,14
+2010,"March 18, 2010",West,First Round,92,False,7,"Oklahoma City, OK",BYU,7,Florida,10
+2010,"March 18, 2010",West,First Round,59,False,18,"San Jose, CA",Butler,5,UTEP,12
+2010,"March 18, 2010",Midwest,First Round,74,False,16,"Oklahoma City, OK",Kansas,1,Lehigh,16
+2010,"March 18, 2010",West,First Round,62,False,20,"Oklahoma City, OK",Kansas State,2,North Texas,15
+2010,"March 18, 2010",East,First Round,71,False,29,"New Orleans, LA",Kentucky,1,ETSU,16
+2010,"March 18, 2010",West,First Round,65,False,1,"San Jose, CA",Murray State,13,Vanderbilt,4
+2010,"March 18, 2010",East,First Round,57,False,5,"San Jose, CA",New Mexico,3,Montana,14
+2010,"March 18, 2010",Midwest,First Round,66,False,3,"Oklahoma City, OK",Northern Iowa,9,UNLV,8
+2010,"March 18, 2010",Midwest,First Round,83,False,14,"Providence, RI",Ohio,14,Georgetown,3
+2010,"March 18, 2010",South,First Round,50,False,1,"New Orleans, LA",Old Dominion,11,Notre Dame,6
+2010,"March 18, 2010",South,First Round,71,False,9,"Providence, RI",Saint Mary's,10,Richmond,7
+2010,"March 18, 2010",Midwest,First Round,59,False,3,"Providence, RI",Tennessee,6,San Diego State,11
+2010,"March 18, 2010",South,First Round,70,True,3,"Providence, RI",Villanova,2,Robert Morris,15
+2010,"March 18, 2010",East,First Round,80,True,1,"New Orleans, LA",Wake Forest,9,Texas,8
+2010,"March 18, 2010",East,First Round,78,False,2,"San Jose, CA",Washington,11,Marquette,6
+2010,"March 16, 2010",South,Opening Round,44,False,17,"Dayton, OH",Arkansas-Pine Bluff,16,Winthrop,16
+2009,"April 6, 2009",National,National Final,72,False,17,"Detroit, MI",UNC,1,Michigan State,2
+2009,"April 4, 2009",National,National Semifinal,73,False,9,"Detroit, MI",Michigan State,2,UConn,1
+2009,"April 4, 2009",National,National Semifinal,69,False,14,"Detroit, MI",UNC,1,Villanova,3
+2009,"March 29, 2009",Midwest,Regional Final,52,False,12,"Indianapolis, IN",Michigan State,2,Louisville,1
+2009,"March 29, 2009",South,Regional Final,60,False,12,"Memphis, TN",UNC,1,Oklahoma,2
+2009,"March 28, 2009",West,Regional Final,75,False,7,"Glendale, AZ",UConn,1,Missouri,3
+2009,"March 28, 2009",East,Regional Final,76,False,2,"Boston, MA",Villanova,3,Pitt,1
+2009,"March 27, 2009",Midwest,Regional Semifinal,64,False,39,"Indianapolis, IN",Louisville,1,Arizona,12
+2009,"March 27, 2009",Midwest,Regional Semifinal,62,False,5,"Indianapolis, IN",Michigan State,2,Kansas,3
+2009,"March 27, 2009",South,Regional Semifinal,77,False,21,"Memphis, TN",UNC,1,Gonzaga,4
+2009,"March 27, 2009",South,Regional Semifinal,71,False,13,"Memphis, TN",Oklahoma,2,Syracuse,3
+2009,"March 26, 2009",West,Regional Semifinal,60,False,12,"Glendale, AZ",UConn,1,Purdue,5
+2009,"March 26, 2009",West,Regional Semifinal,91,False,11,"Glendale, AZ",Missouri,3,Memphis,2
+2009,"March 26, 2009",East,Regional Semifinal,55,False,5,"Boston, MA",Pitt,1,Xavier,4
+2009,"March 26, 2009",East,Regional Semifinal,54,False,23,"Boston, MA",Villanova,3,Duke,2
+2009,"March 22, 2009",Midwest,Second Round,57,False,14,"Miami, FL",Arizona,12,Cleveland State,13
+2009,"March 22, 2009",Midwest,Second Round,43,False,17,"Minneapolis, MN",Kansas,3,Dayton,11
+2009,"March 22, 2009",Midwest,Second Round,72,False,7,"Dayton, OH",Louisville,1,Siena,9
+2009,"March 22, 2009",Midwest,Second Round,69,False,5,"Minneapolis, MN",Michigan State,2,USC,10
+2009,"March 22, 2009",West,Second Round,79,False,4,"Boise, ID",Missouri,3,Marquette,6
+2009,"March 22, 2009",East,Second Round,76,False,8,"Dayton, OH",Pitt,1,Oklahoma State,8
+2009,"March 22, 2009",South,Second Round,67,False,11,"Miami, FL",Syracuse,3,Arizona State,6
+2009,"March 22, 2009",East,Second Round,49,False,11,"Boise, ID",Xavier,4,Wisconsin,12
+2009,"March 21, 2009",West,Second Round,66,False,26,"Philadelphia, PA",UConn,1,Texas A&M,9
+2009,"March 21, 2009",East,Second Round,69,False,5,"Greensboro, NC",Duke,2,Texas,7
+2009,"March 21, 2009",South,Second Round,81,False,2,"Portland, OR",Gonzaga,4,Western Kentucky,12
+2009,"March 21, 2009",West,Second Round,70,False,19,"Kansas City, MO",Memphis,2,Maryland,10
+2009,"March 21, 2009",South,Second Round,70,False,14,"Greensboro, NC",UNC,1,LSU,8
+2009,"March 21, 2009",South,Second Round,63,False,10,"Kansas City, MO",Oklahoma,2,Michigan,10
+2009,"March 21, 2009",West,Second Round,74,False,2,"Portland, OR",Purdue,5,Washington,4
+2009,"March 21, 2009",East,Second Round,69,False,20,"Philadelphia, PA",Villanova,3,UCLA,6
+2009,"March 20, 2009",Midwest,First Round,71,False,13,"Miami, FL",Arizona,12,Utah,5
+2009,"March 20, 2009",South,First Round,57,False,9,"Miami, FL",Arizona State,6,Temple,11
+2009,"March 20, 2009",Midwest,First Round,69,False,15,"Miami, FL",Cleveland State,13,Wake Forest,4
+2009,"March 20, 2009",Midwest,First Round,60,False,8,"Minneapolis, MN",Dayton,11,West Virginia,6
+2009,"March 20, 2009",Midwest,First Round,74,False,10,"Minneapolis, MN",Kansas,3,North Dakota State,14
+2009,"March 20, 2009",Midwest,First Round,54,False,20,"Dayton, OH",Louisville,1,Morehead State,16
+2009,"March 20, 2009",West,First Round,57,False,1,"Boise, ID",Marquette,6,Utah State,11
+2009,"March 20, 2009",Midwest,First Round,62,False,15,"Minneapolis, MN",Michigan State,2,Robert Morris,15
+2009,"March 20, 2009",West,First Round,59,False,19,"Boise, ID",Missouri,3,Cornell,14
+2009,"March 20, 2009",East,First Round,75,False,2,"Dayton, OH",Oklahoma State,8,Tennessee,9
+2009,"March 20, 2009",East,First Round,62,False,10,"Dayton, OH",Pitt,1,ETSU,16
+2009,"March 20, 2009",Midwest,First Round,72,False,2,"Dayton, OH",Siena,9,Ohio State,8
+2009,"March 20, 2009",Midwest,First Round,55,False,17,"Minneapolis, MN",USC,10,Boston College,7
+2009,"March 20, 2009",South,First Round,44,False,15,"Miami, FL",Syracuse,3,Stephen F. Austin,14
+2009,"March 20, 2009",East,First Round,59,True,2,"Boise, ID",Wisconsin,12,Florida State,5
+2009,"March 20, 2009",East,First Round,59,False,18,"Boise, ID",Xavier,4,Portland State,13
+2009,"March 19, 2009",West,First Round,47,False,56,"Philadelphia, PA",UConn,1,Chattanooga,16
+2009,"March 19, 2009",East,First Round,62,False,24,"Greensboro, NC",Duke,2,Binghamton,15
+2009,"March 19, 2009",South,First Round,64,False,13,"Portland, OR",Gonzaga,4,Akron,13
+2009,"March 19, 2009",South,First Round,71,False,4,"Greensboro, NC",LSU,8,Butler,9
+2009,"March 19, 2009",West,First Round,71,False,13,"Kansas City, MO",Maryland,10,California,7
+2009,"March 19, 2009",West,First Round,70,False,11,"Kansas City, MO",Memphis,2,Cal State Northridge,15
+2009,"March 19, 2009",South,First Round,59,False,3,"Kansas City, MO",Michigan,10,Clemson,7
+2009,"March 19, 2009",South,First Round,58,False,43,"Greensboro, NC",UNC,1,Radford,16
+2009,"March 19, 2009",South,First Round,54,False,28,"Kansas City, MO",Oklahoma,2,Morgan State,15
+2009,"March 19, 2009",West,First Round,56,False,5,"Portland, OR",Purdue,5,Northern Iowa,12
+2009,"March 19, 2009",East,First Round,62,False,14,"Greensboro, NC",Texas,7,Minnesota,10
+2009,"March 19, 2009",West,First Round,66,False,13,"Philadelphia, PA",Texas A&M,9,BYU,8
+2009,"March 19, 2009",East,First Round,64,False,1,"Philadelphia, PA",UCLA,6,VCU,11
+2009,"March 19, 2009",East,First Round,67,False,13,"Philadelphia, PA",Villanova,3,American,14
+2009,"March 19, 2009",West,First Round,58,False,13,"Portland, OR",Washington,4,Mississippi State,13
+2009,"March 19, 2009",South,First Round,72,False,4,"Portland, OR",Western Kentucky,12,Illinois,5
+2009,"March 17, 2009",Midwest,Opening Round,43,False,15,"Dayton, OH",Morehead State,16,Alabama State,16
+2008,"April 7, 2008",National,National Final,68,True,7,"San Antonio, TX",Kansas,1,Memphis,1
+2008,"April 5, 2008",National,National Semifinal,66,False,18,"San Antonio, TX",Kansas,1,UNC,1
+2008,"April 5, 2008",National,National Semifinal,63,False,15,"San Antonio, TX",Memphis,1,UCLA,1
+2008,"March 30, 2008",Midwest,Regional Final,57,False,2,"Detroit, MI",Kansas,1,Davidson,10
+2008,"March 30, 2008",South,Regional Final,67,False,18,"Houston, TX",Memphis,1,Texas,2
+2008,"March 29, 2008",East,Regional Final,73,False,10,"Charlotte, NC",UNC,1,Louisville,3
+2008,"March 29, 2008",West,Regional Final,57,False,19,"Phoenix, AZ",UCLA,1,Xavier,3
+2008,"March 28, 2008",Midwest,Regional Semifinal,56,False,17,"Detroit, MI",Davidson,10,Wisconsin,3
+2008,"March 28, 2008",Midwest,Regional Semifinal,57,False,15,"Detroit, MI",Kansas,1,Villanova,12
+2008,"March 28, 2008",South,Regional Semifinal,74,False,18,"Houston, TX",Memphis,1,Michigan State,5
+2008,"March 28, 2008",South,Regional Semifinal,62,False,20,"Houston, TX",Texas,2,Stanford,3
+2008,"March 27, 2008",East,Regional Semifinal,60,False,19,"Charlotte, NC",Louisville,3,Tennessee,2
+2008,"March 27, 2008",East,Regional Semifinal,47,False,21,"Charlotte, NC",UNC,1,Washington State,4
+2008,"March 27, 2008",West,Regional Semifinal,78,False,10,"Phoenix, AZ",UCLA,1,Western Kentucky,12
+2008,"March 27, 2008",West,Regional Semifinal,75,True,4,"Phoenix, AZ",Xavier,3,West Virginia,7
+2008,"March 23, 2008",Midwest,Second Round,70,False,4,"Raleigh, NC",Davidson,10,Georgetown,2
+2008,"March 23, 2008",East,Second Round,48,False,30,"Birmingham, AL",Louisville,3,Oklahoma,6
+2008,"March 23, 2008",South,Second Round,74,False,3,"Little Rock, AR",Memphis,1,Mississippi State,8
+2008,"March 23, 2008",East,Second Round,77,False,31,"Raleigh, NC",UNC,1,Arkansas,9
+2008,"March 23, 2008",East,Second Round,71,True,5,"Birmingham, AL",Tennessee,2,Butler,7
+2008,"March 23, 2008",South,Second Round,72,False,3,"Little Rock, AR",Texas,2,Miami (FL),7
+2008,"March 23, 2008",Midwest,Second Round,72,False,12,"Tampa, FL",Villanova,12,Siena,13
+2008,"March 23, 2008",West,Second Round,63,False,9,"Tampa, FL",Western Kentucky,12,San Diego,13
+2008,"March 22, 2008",Midwest,Second Round,56,False,19,"Omaha, NE",Kansas,1,UNLV,8
+2008,"March 22, 2008",South,Second Round,54,False,11,"Denver, CO",Michigan State,5,Pitt,4
+2008,"March 22, 2008",South,Second Round,81,True,1,"Anaheim, CA",Stanford,3,Marquette,6
+2008,"March 22, 2008",West,Second Round,49,False,2,"Anaheim, CA",UCLA,1,Texas A&M,9
+2008,"March 22, 2008",East,Second Round,41,False,20,"Denver, CO",Washington State,4,Notre Dame,5
+2008,"March 22, 2008",West,Second Round,67,False,6,"Washington, DC",West Virginia,7,Duke,2
+2008,"March 22, 2008",Midwest,Second Round,55,False,17,"Omaha, NE",Wisconsin,3,Kansas State,11
+2008,"March 22, 2008",West,Second Round,78,False,7,"Washington, DC",Xavier,3,Purdue,6
+2008,"March 21, 2008",East,First Round,72,False,14,"Raleigh, NC",Arkansas,9,Indiana,8
+2008,"March 21, 2008",East,First Round,61,False,20,"Birmingham, AL",Butler,7,South Alabama,10
+2008,"March 21, 2008",Midwest,First Round,76,False,6,"Raleigh, NC",Davidson,10,Gonzaga,7
+2008,"March 21, 2008",Midwest,First Round,47,False,19,"Raleigh, NC",Georgetown,2,UMBC,15
+2008,"March 21, 2008",East,First Round,61,False,18,"Birmingham, AL",Louisville,3,Boise State,14
+2008,"March 21, 2008",South,First Round,63,False,24,"Little Rock, AR",Memphis,1,UT Arlington,16
+2008,"March 21, 2008",South,First Round,64,False,14,"Little Rock, AR",Miami (FL),7,Saint Mary's,10
+2008,"March 21, 2008",South,First Round,69,False,7,"Little Rock, AR",Mississippi State,8,Oregon,9
+2008,"March 21, 2008",East,First Round,74,False,39,"Raleigh, NC",UNC,1,Mount St. Mary's,16
+2008,"March 21, 2008",East,First Round,64,False,8,"Birmingham, AL",Oklahoma,6,St. Joseph's,11
+2008,"March 21, 2008",West,First Round,69,True,1,"Tampa, FL",San Diego,13,UConn,4
+2008,"March 21, 2008",Midwest,First Round,62,False,21,"Tampa, FL",Siena,13,Vanderbilt,4
+2008,"March 21, 2008",East,First Round,57,False,15,"Birmingham, AL",Tennessee,2,American,15
+2008,"March 21, 2008",South,First Round,54,False,20,"Little Rock, AR",Texas,2,Austin Peay,15
+2008,"March 21, 2008",Midwest,First Round,69,False,6,"Tampa, FL",Villanova,12,Clemson,5
+2008,"March 21, 2008",West,First Round,99,True,2,"Tampa, FL",Western Kentucky,12,Drake,5
+2008,"March 20, 2008",West,First Round,70,False,1,"Washington, DC",Duke,2,Belmont,15
+2008,"March 20, 2008",Midwest,First Round,61,False,24,"Omaha, NE",Kansas,1,Portland State,16
+2008,"March 20, 2008",Midwest,First Round,67,False,13,"Omaha, NE",Kansas State,11,USC,6
+2008,"March 20, 2008",South,First Round,66,False,8,"Anaheim, CA",Marquette,6,Kentucky,11
+2008,"March 20, 2008",South,First Round,61,False,11,"Denver, CO",Michigan State,5,Temple,12
+2008,"March 20, 2008",Midwest,First Round,58,False,13,"Omaha, NE",UNLV,8,Kent State,9
+2008,"March 20, 2008",East,First Round,50,False,18,"Denver, CO",Notre Dame,5,George Mason,12
+2008,"March 20, 2008",South,First Round,63,False,19,"Denver, CO",Pitt,4,Oral Roberts,13
+2008,"March 20, 2008",West,First Round,79,False,11,"Washington, DC",Purdue,6,Baylor,11
+2008,"March 20, 2008",South,First Round,53,False,24,"Anaheim, CA",Stanford,3,Cornell,14
+2008,"March 20, 2008",West,First Round,62,False,5,"Anaheim, CA",Texas A&M,9,BYU,8
+2008,"March 20, 2008",West,First Round,29,False,41,"Anaheim, CA",UCLA,1,Mississippi Valley State,16
+2008,"March 20, 2008",East,First Round,40,False,31,"Denver, CO",Washington State,4,Winthrop,13
+2008,"March 20, 2008",West,First Round,65,False,10,"Washington, DC",West Virginia,7,Arizona,10
+2008,"March 20, 2008",Midwest,First Round,56,False,15,"Omaha, NE",Wisconsin,3,Cal State Fullerton,14
+2008,"March 20, 2008",West,First Round,61,False,12,"Washington, DC",Xavier,3,Georgia,14
+2008,"March 18, 2008",East,Opening Round,60,False,9,"Dayton, OH",Mount St. Mary's,16,Coppin State,16
+2007,"April 2, 2007",National,National Final,75,False,9,"Atlanta, GA",Florida,1,Ohio State,1
+2007,"March 31, 2007",National,National Semifinal,66,False,10,"Atlanta, GA",Florida,1,UCLA,2
+2007,"March 31, 2007",National,National Semifinal,60,False,7,"Atlanta, GA",Ohio State,1,Georgetown,2
+2007,"March 25, 2007",Midwest,Regional Final,77,False,8,"St. Louis, MO",Florida,1,Oregon,3
+2007,"March 25, 2007",East,Regional Final,84,True,12,"East Rutherford, NJ",Georgetown,2,UNC,1
+2007,"March 24, 2007",South,Regional Final,76,False,16,"San Antonio, TX",Ohio State,1,Memphis,2
+2007,"March 24, 2007",West,Regional Final,55,False,13,"San Jose, CA",UCLA,2,Kansas,1
+2007,"March 23, 2007",Midwest,Regional Semifinal,57,False,8,"St. Louis, MO",Florida,1,Butler,5
+2007,"March 23, 2007",East,Regional Semifinal,65,False,1,"East Rutherford, NJ",Georgetown,2,Vanderbilt,6
+2007,"March 23, 2007",East,Regional Semifinal,64,False,10,"East Rutherford, NJ",UNC,1,USC,5
+2007,"March 23, 2007",Midwest,Regional Semifinal,72,False,4,"St. Louis, MO",Oregon,3,UNLV,7
+2007,"March 22, 2007",West,Regional Semifinal,58,False,3,"San Jose, CA",Kansas,1,Southern Illinois,4
+2007,"March 22, 2007",South,Regional Semifinal,64,False,1,"San Antonio, TX",Memphis,2,Texas A&M,3
+2007,"March 22, 2007",South,Regional Semifinal,84,False,1,"San Antonio, TX",Ohio State,1,Tennessee,5
+2007,"March 22, 2007",West,Regional Semifinal,55,False,9,"San Jose, CA",UCLA,2,Pitt,3
+2007,"March 18, 2007",Midwest,Second Round,67,False,7,"New Orleans, LA",Florida,1,Purdue,9
+2007,"March 18, 2007",West,Second Round,76,False,12,"Chicago, IL",Kansas,1,Kentucky,8
+2007,"March 18, 2007",South,Second Round,62,False,16,"New Orleans, LA",Memphis,2,Nevada,7
+2007,"March 18, 2007",Midwest,Second Round,68,False,6,"Chicago, IL",UNLV,7,Wisconsin,2
+2007,"March 18, 2007",Midwest,Second Round,61,False,14,"Spokane, WA",Oregon,3,Winthrop,11
+2007,"March 18, 2007",East,Second Round,68,False,19,"Spokane, WA",USC,5,Texas,4
+2007,"March 18, 2007",West,Second Round,48,False,15,"Columbus, OH",Southern Illinois,4,Virginia Tech,5
+2007,"March 18, 2007",South,Second Round,74,False,3,"Columbus, OH",Tennessee,5,Virginia,4
+2007,"March 17, 2007",Midwest,Second Round,59,False,3,"Buffalo, NY",Butler,5,Maryland,4
+2007,"March 17, 2007",East,Second Round,55,False,7,"Winston-Salem, NC",Georgetown,2,Boston College,7
+2007,"March 17, 2007",East,Second Round,67,False,14,"Winston-Salem, NC",UNC,1,Michigan State,9
+2007,"March 17, 2007",South,Second Round,71,True,7,"Lexington, KY",Ohio State,1,Xavier,9
+2007,"March 17, 2007",West,Second Round,79,True,5,"Buffalo, NY",Pitt,3,VCU,11
+2007,"March 17, 2007",South,Second Round,69,False,3,"Lexington, KY",Texas A&M,3,Louisville,6
+2007,"March 17, 2007",West,Second Round,49,False,5,"Sacramento, CA",UCLA,2,Indiana,7
+2007,"March 17, 2007",East,Second Round,74,False,4,"Sacramento, CA",Vanderbilt,6,Washington State,3
+2007,"March 16, 2007",Midwest,First Round,69,False,43,"New Orleans, LA",Florida,1,Jackson State,16
+2007,"March 16, 2007",West,First Round,67,False,40,"Chicago, IL",Kansas,1,Niagara,16
+2007,"March 16, 2007",West,First Round,58,False,9,"Chicago, IL",Kentucky,8,Villanova,9
+2007,"March 16, 2007",South,First Round,58,False,15,"New Orleans, LA",Memphis,2,North Texas,15
+2007,"March 16, 2007",South,First Round,71,True,6,"New Orleans, LA",Nevada,7,Creighton,10
+2007,"March 16, 2007",Midwest,First Round,63,False,4,"Chicago, IL",UNLV,7,Georgia Tech,10
+2007,"March 16, 2007",Midwest,First Round,56,False,2,"Spokane, WA",Oregon,3,Miami (OH),14
+2007,"March 16, 2007",Midwest,First Round,63,False,9,"New Orleans, LA",Purdue,9,Arizona,8
+2007,"March 16, 2007",East,First Round,60,False,17,"Spokane, WA",USC,5,Arkansas,12
+2007,"March 16, 2007",West,First Round,51,False,10,"Columbus, OH",Southern Illinois,4,Holy Cross,13
+2007,"March 16, 2007",South,First Round,86,False,35,"Columbus, OH",Tennessee,5,Long Beach State,12
+2007,"March 16, 2007",East,First Round,67,False,12,"Spokane, WA",Texas,4,New Mexico State,13
+2007,"March 16, 2007",South,First Round,57,False,27,"Columbus, OH",Virginia,4,Albany (NY),13
+2007,"March 16, 2007",West,First Round,52,False,2,"Columbus, OH",Virginia Tech,5,Illinois,12
+2007,"March 16, 2007",Midwest,First Round,64,False,10,"Spokane, WA",Winthrop,11,Notre Dame,6
+2007,"March 16, 2007",Midwest,First Round,63,False,13,"Chicago, IL",Wisconsin,2,Texas A&M-Corpus Christi,15
+2007,"March 15, 2007",East,First Round,75,False,9,"Winston-Salem, NC",Boston College,7,Texas Tech,10
+2007,"March 15, 2007",Midwest,First Round,46,False,11,"Buffalo, NY",Butler,5,Old Dominion,12
+2007,"March 15, 2007",East,First Round,55,False,25,"Winston-Salem, NC",Georgetown,2,Belmont,15
+2007,"March 15, 2007",West,First Round,57,False,13,"Sacramento, CA",Indiana,7,Gonzaga,10
+2007,"March 15, 2007",South,First Round,58,False,20,"Lexington, KY",Louisville,6,Stanford,11
+2007,"March 15, 2007",Midwest,First Round,70,False,12,"Buffalo, NY",Maryland,4,Davidson,13
+2007,"March 15, 2007",East,First Round,49,False,12,"Winston-Salem, NC",Michigan State,9,Marquette,8
+2007,"March 15, 2007",East,First Round,65,False,21,"Winston-Salem, NC",UNC,1,Eastern Kentucky,16
+2007,"March 15, 2007",South,First Round,57,False,21,"Lexington, KY",Ohio State,1,Central Connecticut,16
+2007,"March 15, 2007",West,First Round,58,False,21,"Buffalo, NY",Pitt,3,Wright State,14
+2007,"March 15, 2007",South,First Round,52,False,16,"Lexington, KY",Texas A&M,3,Penn,14
+2007,"March 15, 2007",West,First Round,42,False,28,"Sacramento, CA",UCLA,2,Weber State,15
+2007,"March 15, 2007",East,First Round,44,False,33,"Sacramento, CA",Vanderbilt,6,George Washington,11
+2007,"March 15, 2007",West,First Round,77,False,2,"Buffalo, NY",VCU,11,Duke,6
+2007,"March 15, 2007",East,First Round,54,False,16,"Sacramento, CA",Washington State,3,Oral Roberts,14
+2007,"March 15, 2007",South,First Round,77,False,2,"Lexington, KY",Xavier,9,BYU,8
+2007,"March 13, 2007",West,Opening Round,69,False,8,"Dayton, OH",Niagara,16,Florida A&M,16
+2006,"April 3, 2006",National,National Final,57,False,16,"Indianapolis, IN",Florida,3,UCLA,2
+2006,"April 1, 2006",National,National Semifinal,58,False,15,"Indianapolis, IN",Florida,3,George Mason,11
+2006,"April 1, 2006",National,National Semifinal,45,False,14,"Indianapolis, IN",UCLA,2,LSU,4
+2006,"March 26, 2006",Minneapolis,Regional Final,62,False,13,"Minneapolis, MN",Florida,3,Villanova,1
+2006,"March 26, 2006",Washington,Regional Final,84,True,2,"Washington, DC",George Mason,11,UConn,1
+2006,"March 25, 2006",Atlanta,Regional Final,60,True,10,"Atlanta, GA",LSU,4,Texas,2
+2006,"March 25, 2006",Oakland,Regional Final,45,False,5,"Oakland, CA",UCLA,2,Memphis,1
+2006,"March 24, 2006",Washington,Regional Semifinal,92,True,6,"Washington, DC",UConn,1,Washington,5
+2006,"March 24, 2006",Minneapolis,Regional Semifinal,53,False,4,"Minneapolis, MN",Florida,3,Georgetown,7
+2006,"March 24, 2006",Washington,Regional Semifinal,55,False,8,"Washington, DC",George Mason,11,Wichita State,7
+2006,"March 24, 2006",Minneapolis,Regional Semifinal,59,True,1,"Minneapolis, MN",Villanova,1,Boston College,4
+2006,"March 23, 2006",Atlanta,Regional Semifinal,54,False,8,"Atlanta, GA",LSU,4,Duke,1
+2006,"March 23, 2006",Oakland,Regional Semifinal,64,False,16,"Oakland, CA",Memphis,1,Bradley,13
+2006,"March 23, 2006",Atlanta,Regional Semifinal,71,False,3,"Atlanta, GA",Texas,2,West Virginia,6
+2006,"March 23, 2006",Oakland,Regional Semifinal,71,False,2,"Oakland, CA",UCLA,2,Gonzaga,3
+2006,"March 19, 2006",Oakland,Second Round,66,False,6,"Dallas, TX",Bradley,13,Pitt,5
+2006,"March 19, 2006",Washington,Second Round,83,False,4,"Philadelphia, PA",UConn,1,Kentucky,8
+2006,"March 19, 2006",Washington,Second Round,60,False,5,"Dayton, OH",George Mason,11,UNC,3
+2006,"March 19, 2006",Minneapolis,Second Round,52,False,18,"Dayton, OH",Georgetown,7,Ohio State,2
+2006,"March 19, 2006",Oakland,Second Round,56,False,16,"Auburn Hills, MI",Memphis,1,Bucknell,9
+2006,"March 19, 2006",Atlanta,Second Round,54,False,21,"Dallas, TX",Texas,2,NC State,10
+2006,"March 19, 2006",Minneapolis,Second Round,78,False,4,"Philadelphia, PA",Villanova,1,Arizona,8
+2006,"March 19, 2006",Atlanta,Second Round,54,False,13,"Auburn Hills, MI",West Virginia,6,Northwestern State,14
+2006,"March 18, 2006",Minneapolis,Second Round,56,False,13,"Salt Lake City, UT",Boston College,4,Montana,12
+2006,"March 18, 2006",Atlanta,Second Round,61,False,13,"Greensboro, NC",Duke,1,George Washington,8
+2006,"March 18, 2006",Minneapolis,Second Round,60,False,22,"Jacksonville, FL",Florida,3,Milwaukee,11
+2006,"March 18, 2006",Oakland,Second Round,80,False,10,"Salt Lake City, UT",Gonzaga,3,Indiana,6
+2006,"March 18, 2006",Atlanta,Second Round,57,False,1,"Jacksonville, FL",LSU,4,Texas A&M,12
+2006,"March 18, 2006",Oakland,Second Round,59,False,3,"San Diego, CA",UCLA,2,Alabama,10
+2006,"March 18, 2006",Washington,Second Round,64,False,3,"San Diego, CA",Washington,5,Illinois,4
+2006,"March 18, 2006",Washington,Second Round,73,False,7,"Greensboro, NC",Wichita State,7,Tennessee,2
+2006,"March 17, 2006",Minneapolis,First Round,75,False,19,"Philadelphia, PA",Arizona,8,Wisconsin,9
+2006,"March 17, 2006",Oakland,First Round,73,False,4,"Auburn Hills, MI",Bradley,13,Kansas,4
+2006,"March 17, 2006",Oakland,First Round,55,False,4,"Dallas, TX",Bucknell,9,Arkansas,8
+2006,"March 17, 2006",Washington,First Round,59,False,13,"Philadelphia, PA",UConn,1,Albany (NY),16
+2006,"March 17, 2006",Washington,First Round,65,False,10,"Dayton, OH",George Mason,11,Michigan State,6
+2006,"March 17, 2006",Minneapolis,First Round,49,False,5,"Dayton, OH",Georgetown,7,Northern Iowa,10
+2006,"March 17, 2006",Washington,First Round,64,False,5,"Philadelphia, PA",Kentucky,8,UAB,9
+2006,"March 17, 2006",Oakland,First Round,78,False,16,"Dallas, TX",Memphis,1,Oral Roberts,16
+2006,"March 17, 2006",Washington,First Round,65,False,4,"Dayton, OH",UNC,3,Murray State,14
+2006,"March 17, 2006",Atlanta,First Round,52,False,6,"Dallas, TX",NC State,10,California,7
+2006,"March 17, 2006",Atlanta,First Round,63,False,1,"Auburn Hills, MI",Northwestern State,14,Iowa,3
+2006,"March 17, 2006",Minneapolis,First Round,62,False,8,"Dayton, OH",Ohio State,2,Davidson,15
+2006,"March 17, 2006",Oakland,First Round,64,False,15,"Auburn Hills, MI",Pitt,5,Kent State,12
+2006,"March 17, 2006",Atlanta,First Round,52,False,8,"Dallas, TX",Texas,2,Penn,15
+2006,"March 17, 2006",Minneapolis,First Round,45,False,13,"Philadelphia, PA",Villanova,1,Monmouth,16
+2006,"March 17, 2006",Atlanta,First Round,46,False,18,"Auburn Hills, MI",West Virginia,6,Southern Illinois,11
+2006,"March 16, 2006",Oakland,First Round,85,False,5,"San Diego, CA",Alabama,10,Marquette,7
+2006,"March 16, 2006",Minneapolis,First Round,76,False,12,"Salt Lake City, UT",Boston College,4,Pacific,13
+2006,"March 16, 2006",Atlanta,First Round,54,False,16,"Greensboro, NC",Duke,1,Southern,16
+2006,"March 16, 2006",Minneapolis,First Round,50,False,26,"Jacksonville, FL",Florida,3,South Alabama,14
+2006,"March 16, 2006",Atlanta,First Round,85,True,3,"Greensboro, NC",George Washington,8,UNC Wilmington,9
+2006,"March 16, 2006",Oakland,First Round,75,False,4,"Salt Lake City, UT",Gonzaga,3,Xavier,14
+2006,"March 16, 2006",Washington,First Round,69,False,9,"San Diego, CA",Illinois,4,Air Force,13
+2006,"March 16, 2006",Oakland,First Round,83,False,4,"Salt Lake City, UT",Indiana,6,San Diego State,11
+2006,"March 16, 2006",Atlanta,First Round,64,False,16,"Jacksonville, FL",LSU,4,Iona,13
+2006,"March 16, 2006",Minneapolis,First Round,74,False,8,"Jacksonville, FL",Milwaukee,11,Oklahoma,6
+2006,"March 16, 2006",Minneapolis,First Round,79,False,8,"Salt Lake City, UT",Montana,12,Nevada,5
+2006,"March 16, 2006",Washington,First Round,61,False,2,"Greensboro, NC",Tennessee,2,Winthrop,15
+2006,"March 16, 2006",Atlanta,First Round,58,False,8,"Jacksonville, FL",Texas A&M,12,Syracuse,5
+2006,"March 16, 2006",Oakland,First Round,44,False,34,"San Diego, CA",UCLA,2,Belmont,15
+2006,"March 16, 2006",Washington,First Round,61,False,14,"San Diego, CA",Washington,5,Utah State,12
+2006,"March 16, 2006",Washington,First Round,66,False,20,"Greensboro, NC",Wichita State,7,Seton Hall,10
+2006,"March 14, 2006",Minneapolis,Opening Round,49,False,22,"Dayton, OH",Monmouth,16,Hampton,16
+2005,"April 4, 2005",National,National Final,70,False,5,"St. Louis, MO",UNC,1,Illinois,1
+2005,"April 2, 2005",National,National Semifinal,57,False,15,"St. Louis, MO",Illinois,1,Louisville,4
+2005,"April 2, 2005",National,National Semifinal,71,False,16,"St. Louis, MO",UNC,1,Michigan State,5
+2005,"March 27, 2005",Austin,Regional Final,88,False,6,"Austin, TX",Michigan State,5,Kentucky,2
+2005,"March 27, 2005",Syracuse,Regional Final,82,False,6,"Syracuse, NY",UNC,1,Wisconsin,6
+2005,"March 26, 2005",Chicago,Regional Final,89,True,1,"Chicago, IL",Illinois,1,Arizona,3
+2005,"March 26, 2005",Albuquerque,Regional Final,85,True,8,"Albuquerque, NM",Louisville,4,West Virginia,7
+2005,"March 25, 2005",Austin,Regional Semifinal,52,False,10,"Austin, TX",Kentucky,2,Utah,6
+2005,"March 25, 2005",Austin,Regional Semifinal,68,False,10,"Austin, TX",Michigan State,5,Duke,1
+2005,"March 25, 2005",Syracuse,Regional Semifinal,66,False,1,"Syracuse, NY",UNC,1,Villanova,5
+2005,"March 25, 2005",Syracuse,Regional Semifinal,56,False,9,"Syracuse, NY",Wisconsin,6,NC State,10
+2005,"March 24, 2005",Chicago,Regional Semifinal,78,False,1,"Chicago, IL",Arizona,3,Oklahoma State,2
+2005,"March 24, 2005",Chicago,Regional Semifinal,63,False,14,"Chicago, IL",Illinois,1,Milwaukee,12
+2005,"March 24, 2005",Albuquerque,Regional Semifinal,79,False,14,"Albuquerque, NM",Louisville,4,Washington,1
+2005,"March 24, 2005",Albuquerque,Regional Semifinal,60,False,5,"Albuquerque, NM",West Virginia,7,Texas Tech,6
+2005,"March 20, 2005",Austin,Second Round,55,False,8,"Charlotte, NC",Duke,1,Mississippi State,9
+2005,"March 20, 2005",Albuquerque,Second Round,54,False,22,"Nashville, TN",Louisville,4,Georgia Tech,5
+2005,"March 20, 2005",Austin,Second Round,61,False,11,"Worcester, MA",Michigan State,5,Vermont,13
+2005,"March 20, 2005",Syracuse,Second Round,65,False,27,"Charlotte, NC",UNC,1,Iowa State,9
+2005,"March 20, 2005",Syracuse,Second Round,62,False,3,"Worcester, MA",NC State,10,UConn,2
+2005,"March 20, 2005",Chicago,Second Round,77,False,8,"Oklahoma City, OK",Oklahoma State,2,Southern Illinois,7
+2005,"March 20, 2005",Syracuse,Second Round,65,False,11,"Nashville, TN",Villanova,5,Florida,4
+2005,"March 20, 2005",Syracuse,Second Round,62,False,9,"Oklahoma City, OK",Wisconsin,6,Bucknell,14
+2005,"March 19, 2005",Chicago,Second Round,63,False,22,"Boise, ID",Arizona,3,UAB,11
+2005,"March 19, 2005",Chicago,Second Round,59,False,12,"Indianapolis, IN",Illinois,1,Nevada,9
+2005,"March 19, 2005",Austin,Second Round,60,False,9,"Indianapolis, IN",Kentucky,2,Cincinnati,7
+2005,"March 19, 2005",Chicago,Second Round,75,False,8,"Cleveland, OH",Milwaukee,12,Boston College,4
+2005,"March 19, 2005",Albuquerque,Second Round,69,False,2,"Tucson, AZ",Texas Tech,6,Gonzaga,3
+2005,"March 19, 2005",Austin,Second Round,58,False,9,"Tucson, AZ",Utah,6,Oklahoma,3
+2005,"March 19, 2005",Albuquerque,Second Round,79,False,18,"Boise, ID",Washington,1,Pacific,8
+2005,"March 19, 2005",Albuquerque,Second Round,105,False,6,"Cleveland, OH",West Virginia,7,Wake Forest,2
+2005,"March 18, 2005",Syracuse,First Round,63,False,1,"Oklahoma City, OK",Bucknell,14,Kansas,3
+2005,"March 18, 2005",Syracuse,First Round,71,False,6,"Worcester, MA",UConn,2,UCF,15
+2005,"March 18, 2005",Austin,First Round,46,False,11,"Charlotte, NC",Duke,1,Delaware State,16
+2005,"March 18, 2005",Syracuse,First Round,62,False,5,"Nashville, TN",Florida,4,Ohio,13
+2005,"March 18, 2005",Albuquerque,First Round,68,False,12,"Nashville, TN",Georgia Tech,5,George Washington,12
+2005,"March 18, 2005",Syracuse,First Round,53,False,11,"Charlotte, NC",Iowa State,9,Minnesota,8
+2005,"March 18, 2005",Albuquerque,First Round,62,False,6,"Nashville, TN",Louisville,4,Louisiana,13
+2005,"March 18, 2005",Austin,First Round,81,False,8,"Worcester, MA",Michigan State,5,Old Dominion,12
+2005,"March 18, 2005",Austin,First Round,70,False,23,"Charlotte, NC",Mississippi State,9,Stanford,8
+2005,"March 18, 2005",Syracuse,First Round,68,False,28,"Charlotte, NC",UNC,1,Oakland,16
+2005,"March 18, 2005",Syracuse,First Round,63,False,12,"Worcester, MA",NC State,10,Charlotte,7
+2005,"March 18, 2005",Chicago,First Round,50,False,13,"Oklahoma City, OK",Oklahoma State,2,Southeastern Louisiana,15
+2005,"March 18, 2005",Chicago,First Round,56,False,9,"Oklahoma City, OK",Southern Illinois,7,Saint Mary's,10
+2005,"March 18, 2005",Austin,First Round,57,True,3,"Worcester, MA",Vermont,13,Syracuse,4
+2005,"March 18, 2005",Syracuse,First Round,47,False,8,"Nashville, TN",Villanova,5,New Mexico,12
+2005,"March 18, 2005",Syracuse,First Round,52,False,5,"Oklahoma City, OK",Wisconsin,6,Northern Iowa,11
+2005,"March 17, 2005",Chicago,First Round,68,False,14,"Boise, ID",UAB,11,LSU,6
+2005,"March 17, 2005",Chicago,First Round,53,False,13,"Boise, ID",Arizona,3,Utah State,14
+2005,"March 17, 2005",Chicago,First Round,65,False,20,"Cleveland, OH",Boston College,4,Penn,13
+2005,"March 17, 2005",Austin,First Round,64,False,12,"Indianapolis, IN",Cincinnati,7,Iowa,10
+2005,"March 17, 2005",Albuquerque,First Round,64,False,10,"Tucson, AZ",Gonzaga,3,Winthrop,14
+2005,"March 17, 2005",Chicago,First Round,55,False,12,"Indianapolis, IN",Illinois,1,Fairleigh Dickinson,16
+2005,"March 17, 2005",Austin,First Round,64,False,8,"Indianapolis, IN",Kentucky,2,Eastern Kentucky,15
+2005,"March 17, 2005",Chicago,First Round,73,False,10,"Cleveland, OH",Milwaukee,12,Alabama,5
+2005,"March 17, 2005",Chicago,First Round,57,False,4,"Indianapolis, IN",Nevada,9,Texas,8
+2005,"March 17, 2005",Austin,First Round,67,False,17,"Tucson, AZ",Oklahoma,3,Niagara,14
+2005,"March 17, 2005",Albuquerque,First Round,71,False,8,"Boise, ID",Pacific,8,Pitt,9
+2005,"March 17, 2005",Albuquerque,First Round,66,False,12,"Tucson, AZ",Texas Tech,6,UCLA,11
+2005,"March 17, 2005",Austin,First Round,54,False,6,"Tucson, AZ",Utah,6,UTEP,11
+2005,"March 17, 2005",Albuquerque,First Round,54,False,16,"Cleveland, OH",Wake Forest,2,Chattanooga,15
+2005,"March 17, 2005",Albuquerque,First Round,77,False,11,"Boise, ID",Washington,1,Montana,16
+2005,"March 17, 2005",Albuquerque,First Round,61,False,2,"Cleveland, OH",West Virginia,7,Creighton,10
+2005,"March 15, 2005",Syracuse,Opening Round,69,False,10,"Dayton, OH",Oakland,16,Alabama A&M,16
+2004,"April 5, 2004",National,National Final,73,False,9,"San Antonio, TX",UConn,2,Georgia Tech,3
+2004,"April 3, 2004",National,National Semifinal,78,False,1,"San Antonio, TX",UConn,2,Duke,1
+2004,"April 3, 2004",National,National Semifinal,65,False,2,"San Antonio, TX",Georgia Tech,3,Oklahoma State,2
+2004,"March 28, 2004",Atlanta,Regional Final,63,False,3,"Atlanta, GA",Duke,1,Xavier,7
+2004,"March 28, 2004",St. Louis,Regional Final,71,True,8,"St. Louis, MO",Georgia Tech,3,Kansas,4
+2004,"March 27, 2004",Phoenix,Regional Final,71,False,16,"Phoenix, AZ",UConn,2,Alabama,8
+2004,"March 27, 2004",East Rutherford,Regional Final,62,False,2,"East Rutherford, NJ",Oklahoma State,2,St. Joseph's,1
+2004,"March 26, 2004",Atlanta,Regional Semifinal,62,False,10,"Atlanta, GA",Duke,1,Illinois,5
+2004,"March 26, 2004",St. Louis,Regional Semifinal,67,False,5,"St. Louis, MO",Georgia Tech,3,Nevada,10
+2004,"March 26, 2004",St. Louis,Regional Semifinal,74,False,26,"St. Louis, MO",Kansas,4,UAB,9
+2004,"March 26, 2004",Atlanta,Regional Semifinal,71,False,8,"Atlanta, GA",Xavier,7,Texas,3
+2004,"March 25, 2004",Phoenix,Regional Semifinal,71,False,9,"Phoenix, AZ",Alabama,8,Syracuse,5
+2004,"March 25, 2004",Phoenix,Regional Semifinal,53,False,20,"Phoenix, AZ",UConn,2,Vanderbilt,6
+2004,"March 25, 2004",East Rutherford,Regional Semifinal,51,False,12,"East Rutherford, NJ",Oklahoma State,2,Pitt,3
+2004,"March 25, 2004",East Rutherford,Regional Semifinal,80,False,4,"East Rutherford, NJ",St. Joseph's,1,Wake Forest,4
+2004,"March 21, 2004",St. Louis,Second Round,75,False,1,"Columbus, OH",UAB,9,Kentucky,1
+2004,"March 21, 2004",St. Louis,Second Round,54,False,3,"Milwaukee, WI",Georgia Tech,3,Boston College,6
+2004,"March 21, 2004",Atlanta,Second Round,68,False,24,"Columbus, OH",Illinois,5,Cincinnati,4
+2004,"March 21, 2004",St. Louis,Second Round,63,False,15,"Kansas City, MO",Kansas,4,Pacific,12
+2004,"March 21, 2004",East Rutherford,Second Round,53,False,17,"Kansas City, MO",Oklahoma State,2,Memphis,7
+2004,"March 21, 2004",East Rutherford,Second Round,55,False,4,"Milwaukee, WI",Pitt,3,Wisconsin,6
+2004,"March 21, 2004",Phoenix,Second Round,73,False,2,"Denver, CO",Vanderbilt,6,NC State,3
+2004,"March 21, 2004",Atlanta,Second Round,74,False,15,"Orlando, FL",Xavier,7,Mississippi State,2
+2004,"March 20, 2004",Phoenix,Second Round,67,False,3,"Seattle, WA",Alabama,8,Stanford,1
+2004,"March 20, 2004",Phoenix,Second Round,55,False,17,"Buffalo, NY",UConn,2,DePaul,7
+2004,"March 20, 2004",Atlanta,Second Round,62,False,28,"Raleigh, NC",Duke,1,Seton Hall,8
+2004,"March 20, 2004",St. Louis,Second Round,72,False,19,"Seattle, WA",Nevada,10,Gonzaga,2
+2004,"March 20, 2004",East Rutherford,Second Round,65,False,5,"Buffalo, NY",St. Joseph's,1,Texas Tech,8
+2004,"March 20, 2004",Phoenix,Second Round,70,False,2,"Denver, CO",Syracuse,5,Maryland,4
+2004,"March 20, 2004",Atlanta,Second Round,75,False,3,"Denver, CO",Texas,3,UNC,6
+2004,"March 20, 2004",East Rutherford,Second Round,80,False,4,"Raleigh, NC",Wake Forest,4,Manhattan,12
+2004,"March 19, 2004",St. Louis,First Round,100,False,2,"Columbus, OH",UAB,9,Washington,8
+2004,"March 19, 2004",St. Louis,First Round,51,False,7,"Milwaukee, WI",Boston College,6,Utah,11
+2004,"March 19, 2004",Atlanta,First Round,77,False,3,"Columbus, OH",Cincinnati,4,ETSU,13
+2004,"March 19, 2004",St. Louis,First Round,60,False,5,"Milwaukee, WI",Georgia Tech,3,Northern Iowa,14
+2004,"March 19, 2004",Atlanta,First Round,53,False,19,"Columbus, OH",Illinois,5,Murray State,12
+2004,"March 19, 2004",St. Louis,First Round,53,False,25,"Kansas City, MO",Kansas,4,UIC,13
+2004,"March 19, 2004",St. Louis,First Round,76,False,20,"Columbus, OH",Kentucky,1,Florida A&M,16
+2004,"March 19, 2004",East Rutherford,First Round,43,False,16,"Kansas City, MO",Memphis,7,South Carolina,10
+2004,"March 19, 2004",Atlanta,First Round,52,False,33,"Orlando, FL",Mississippi State,2,Monmouth,15
+2004,"March 19, 2004",Phoenix,First Round,52,False,9,"Denver, CO",NC State,3,Louisiana,14
+2004,"March 19, 2004",East Rutherford,First Round,56,False,19,"Kansas City, MO",Oklahoma State,2,Eastern Washington,15
+2004,"March 19, 2004",St. Louis,First Round,58,False,8,"Kansas City, MO",Pacific,12,Providence,5
+2004,"March 19, 2004",East Rutherford,First Round,44,False,9,"Milwaukee, WI",Pitt,3,UCF,14
+2004,"March 19, 2004",Phoenix,First Round,58,False,13,"Denver, CO",Vanderbilt,6,Western Michigan,11
+2004,"March 19, 2004",East Rutherford,First Round,64,False,12,"Milwaukee, WI",Wisconsin,6,Richmond,11
+2004,"March 19, 2004",Atlanta,First Round,70,False,10,"Orlando, FL",Xavier,7,Louisville,10
+2004,"March 18, 2004",Phoenix,First Round,64,False,1,"Seattle, WA",Alabama,8,Southern Illinois,9
+2004,"March 18, 2004",Phoenix,First Round,53,False,17,"Buffalo, NY",UConn,2,Vermont,15
+2004,"March 18, 2004",Phoenix,First Round,69,False,7,"Buffalo, NY",DePaul,7,Dayton,10
+2004,"March 18, 2004",Atlanta,First Round,61,False,35,"Raleigh, NC",Duke,1,Alabama State,16
+2004,"March 18, 2004",St. Louis,First Round,49,False,27,"Seattle, WA",Gonzaga,2,Valparaiso,15
+2004,"March 18, 2004",East Rutherford,First Round,60,False,15,"Raleigh, NC",Manhattan,12,Florida,5
+2004,"March 18, 2004",Phoenix,First Round,83,False,3,"Denver, CO",Maryland,4,UTEP,13
+2004,"March 18, 2004",St. Louis,First Round,66,False,6,"Seattle, WA",Nevada,10,Michigan State,7
+2004,"March 18, 2004",Atlanta,First Round,52,False,11,"Denver, CO",UNC,6,Air Force,11
+2004,"March 18, 2004",East Rutherford,First Round,63,False,19,"Buffalo, NY",St. Joseph's,1,Liberty,16
+2004,"March 18, 2004",Atlanta,First Round,76,False,4,"Raleigh, NC",Seton Hall,8,Arizona,9
+2004,"March 18, 2004",Phoenix,First Round,45,False,26,"Seattle, WA",Stanford,1,UTSA,16
+2004,"March 18, 2004",Phoenix,First Round,75,False,5,"Denver, CO",Syracuse,5,BYU,12
+2004,"March 18, 2004",Atlanta,First Round,49,False,17,"Denver, CO",Texas,3,Princeton,14
+2004,"March 18, 2004",East Rutherford,First Round,73,False,3,"Buffalo, NY",Texas Tech,8,Charlotte,9
+2004,"March 18, 2004",East Rutherford,First Round,78,False,1,"Raleigh, NC",Wake Forest,4,VCU,13
+2004,"March 16, 2004",St. Louis,Opening Round,57,False,15,"Dayton, OH",Florida A&M,16,Lehigh,16
+2003,"April 7, 2003",National,National Final,78,False,3,"New Orleans, LA",Syracuse,3,Kansas,2
+2003,"April 5, 2003",National,National Semifinal,61,False,33,"New Orleans, LA",Kansas,2,Marquette,3
+2003,"April 5, 2003",National,National Semifinal,84,False,11,"New Orleans, LA",Syracuse,3,Texas,1
+2003,"March 30, 2003",East,Regional Final,47,False,16,"Albany, NY",Syracuse,3,Oklahoma,1
+2003,"March 30, 2003",South,Regional Final,76,False,9,"San Antonio, TX",Texas,1,Michigan State,7
+2003,"March 29, 2003",West,Regional Final,75,False,3,"Anaheim, CA",Kansas,2,Arizona,1
+2003,"March 29, 2003",Midwest,Regional Final,69,False,14,"Minneapolis, MN",Marquette,3,Kentucky,1
+2003,"March 28, 2003",South,Regional Semifinal,58,False,2,"San Antonio, TX",Michigan State,7,Maryland,6
+2003,"March 28, 2003",East,Regional Semifinal,54,False,11,"Albany, NY",Oklahoma,1,Butler,12
+2003,"March 28, 2003",East,Regional Semifinal,78,False,1,"Albany, NY",Syracuse,3,Auburn,10
+2003,"March 28, 2003",South,Regional Semifinal,78,False,4,"San Antonio, TX",Texas,1,UConn,5
+2003,"March 27, 2003",West,Regional Semifinal,71,False,17,"Anaheim, CA",Arizona,1,Notre Dame,5
+2003,"March 27, 2003",West,Regional Semifinal,65,False,4,"Anaheim, CA",Kansas,2,Duke,3
+2003,"March 27, 2003",Midwest,Regional Semifinal,57,False,6,"Minneapolis, MN",Kentucky,1,Wisconsin,5
+2003,"March 27, 2003",Midwest,Regional Semifinal,74,False,3,"Minneapolis, MN",Marquette,3,Pitt,2
+2003,"March 23, 2003",East,Second Round,62,False,6,"Tampa, FL",Auburn,10,Wake Forest,2
+2003,"March 23, 2003",East,Second Round,71,False,8,"Birmingham, AL",Butler,12,Louisville,4
+2003,"March 23, 2003",Midwest,Second Round,54,False,20,"Nashville, TN",Kentucky,1,Utah,9
+2003,"March 23, 2003",South,Second Round,64,False,13,"Nashville, TN",Maryland,6,Xavier,3
+2003,"March 23, 2003",South,Second Round,46,False,22,"Tampa, FL",Michigan State,7,Florida,2
+2003,"March 23, 2003",Midwest,Second Round,52,False,22,"Boston, MA",Pitt,2,Indiana,7
+2003,"March 23, 2003",East,Second Round,56,False,12,"Boston, MA",Syracuse,3,Oklahoma State,6
+2003,"March 23, 2003",South,Second Round,67,False,10,"Birmingham, AL",Texas,1,Purdue,9
+2003,"March 22, 2003",West,Second Round,95,False,1,"Salt Lake City, UT",Arizona,1,Gonzaga,9
+2003,"March 22, 2003",South,Second Round,74,False,11,"Spokane, WA",UConn,5,Stanford,4
+2003,"March 22, 2003",West,Second Round,60,False,26,"Salt Lake City, UT",Duke,3,Central Michigan,11
+2003,"March 22, 2003",West,Second Round,76,False,32,"Oklahoma City, OK",Kansas,2,Arizona State,10
+2003,"March 22, 2003",Midwest,Second Round,92,True,9,"Indianapolis, IN",Marquette,3,Missouri,6
+2003,"March 22, 2003",West,Second Round,60,False,8,"Indianapolis, IN",Notre Dame,5,Illinois,4
+2003,"March 22, 2003",East,Second Round,65,False,9,"Oklahoma City, OK",Oklahoma,1,California,8
+2003,"March 22, 2003",Midwest,Second Round,60,False,1,"Spokane, WA",Wisconsin,5,Tulsa,13
+2003,"March 21, 2003",East,First Round,63,True,2,"Tampa, FL",Auburn,10,St. Joseph's,7
+2003,"March 21, 2003",East,First Round,46,False,1,"Birmingham, AL",Butler,12,Mississippi State,5
+2003,"March 21, 2003",South,First Round,55,False,30,"Tampa, FL",Florida,2,Sam Houston State,15
+2003,"March 21, 2003",Midwest,First Round,62,False,5,"Boston, MA",Indiana,7,Alabama,10
+2003,"March 21, 2003",Midwest,First Round,64,False,31,"Nashville, TN",Kentucky,1,IUPUI,16
+2003,"March 21, 2003",East,First Round,64,False,22,"Birmingham, AL",Louisville,4,Austin Peay,13
+2003,"March 21, 2003",South,First Round,73,False,2,"Nashville, TN",Maryland,6,UNC Wilmington,11
+2003,"March 21, 2003",South,First Round,64,False,15,"Tampa, FL",Michigan State,7,Colorado,10
+2003,"March 21, 2003",East,First Round,63,False,14,"Boston, MA",Oklahoma State,6,Penn,11
+2003,"March 21, 2003",Midwest,First Round,61,False,26,"Boston, MA",Pitt,2,Wagner,15
+2003,"March 21, 2003",South,First Round,56,False,24,"Birmingham, AL",Purdue,9,LSU,8
+2003,"March 21, 2003",East,First Round,65,False,11,"Boston, MA",Syracuse,3,Manhattan,14
+2003,"March 21, 2003",South,First Round,61,False,21,"Birmingham, AL",Texas,1,UNC Asheville,16
+2003,"March 21, 2003",Midwest,First Round,58,False,2,"Nashville, TN",Utah,9,Oregon,8
+2003,"March 21, 2003",East,First Round,73,False,3,"Tampa, FL",Wake Forest,2,ETSU,15
+2003,"March 21, 2003",South,First Round,59,False,12,"Nashville, TN",Xavier,3,Troy,14
+2003,"March 20, 2003",West,First Round,51,False,29,"Salt Lake City, UT",Arizona,1,Vermont,16
+2003,"March 20, 2003",West,First Round,71,False,13,"Oklahoma City, OK",Arizona State,10,Memphis,7
+2003,"March 20, 2003",East,First Round,74,True,2,"Oklahoma City, OK",California,8,NC State,9
+2003,"March 20, 2003",West,First Round,73,False,6,"Salt Lake City, UT",Central Michigan,11,Creighton,6
+2003,"March 20, 2003",South,First Round,53,False,5,"Spokane, WA",UConn,5,BYU,12
+2003,"March 20, 2003",West,First Round,57,False,10,"Salt Lake City, UT",Duke,3,Colorado State,14
+2003,"March 20, 2003",West,First Round,69,False,5,"Salt Lake City, UT",Gonzaga,9,Cincinnati,8
+2003,"March 20, 2003",West,First Round,60,False,5,"Indianapolis, IN",Illinois,4,Western Kentucky,13
+2003,"March 20, 2003",West,First Round,61,False,3,"Oklahoma City, OK",Kansas,2,Utah State,15
+2003,"March 20, 2003",Midwest,First Round,68,False,4,"Indianapolis, IN",Marquette,3,Holy Cross,14
+2003,"March 20, 2003",Midwest,First Round,71,False,1,"Indianapolis, IN",Missouri,6,Southern Illinois,11
+2003,"March 20, 2003",West,First Round,69,False,1,"Indianapolis, IN",Notre Dame,5,Milwaukee,12
+2003,"March 20, 2003",East,First Round,54,False,17,"Oklahoma City, OK",Oklahoma,1,South Carolina State,16
+2003,"March 20, 2003",South,First Round,69,False,8,"Spokane, WA",Stanford,4,San Diego,13
+2003,"March 20, 2003",Midwest,First Round,71,False,13,"Spokane, WA",Tulsa,13,Dayton,4
+2003,"March 20, 2003",Midwest,First Round,74,False,7,"Spokane, WA",Wisconsin,5,Weber State,12
+2003,"March 18, 2003",South,Opening Round,84,True,8,"Dayton, OH",UNC Asheville,16,Texas Southern,16
+2002,"April 1, 2002",National,National Final,52,False,12,"Atlanta, GA",Maryland,1,Indiana,5
+2002,"March 30, 2002",National,National Semifinal,64,False,9,"Atlanta, GA",Indiana,5,Oklahoma,2
+2002,"March 30, 2002",National,National Semifinal,88,False,9,"Atlanta, GA",Maryland,1,Kansas,1
+2002,"March 24, 2002",Midwest,Regional Final,86,False,18,"Madison, WI",Kansas,1,Oregon,2
+2002,"March 24, 2002",East,Regional Final,82,False,8,"Syracuse, NY",Maryland,1,UConn,2
+2002,"March 23, 2002",South,Regional Final,69,False,12,"Lexington, KY",Indiana,5,Kent State,10
+2002,"March 23, 2002",West,Regional Final,75,False,6,"San Jose, CA",Oklahoma,2,Missouri,12
+2002,"March 22, 2002",East,Regional Semifinal,59,False,12,"Syracuse, NY",UConn,2,Southern Illinois,11
+2002,"March 22, 2002",Midwest,Regional Semifinal,69,False,4,"Madison, WI",Kansas,1,Illinois,4
+2002,"March 22, 2002",East,Regional Semifinal,68,False,10,"Syracuse, NY",Maryland,1,Kentucky,4
+2002,"March 22, 2002",Midwest,Regional Semifinal,70,False,2,"Madison, WI",Oregon,2,Texas,6
+2002,"March 21, 2002",South,Regional Semifinal,73,False,1,"Lexington, KY",Indiana,5,Duke,1
+2002,"March 21, 2002",South,Regional Semifinal,73,True,5,"Lexington, KY",Kent State,10,Pitt,3
+2002,"March 21, 2002",West,Regional Semifinal,73,False,9,"San Jose, CA",Missouri,12,UCLA,8
+2002,"March 21, 2002",West,Regional Semifinal,67,False,21,"San Jose, CA",Oklahoma,2,Arizona,3
+2002,"March 17, 2002",East,Second Round,74,False,3,"Washington, DC",UConn,2,NC State,7
+2002,"March 17, 2002",Midwest,Second Round,60,False,12,"Chicago, IL",Illinois,4,Creighton,12
+2002,"March 17, 2002",East,Second Round,57,False,30,"Washington, DC",Maryland,1,Wisconsin,8
+2002,"March 17, 2002",West,Second Round,65,False,13,"Dallas, TX",Oklahoma,2,Xavier,7
+2002,"March 17, 2002",South,Second Round,50,False,13,"Pittsburgh, PA",Pitt,3,California,6
+2002,"March 17, 2002",East,Second Round,75,False,2,"Chicago, IL",Southern Illinois,11,Georgia,3
+2002,"March 17, 2002",Midwest,Second Round,64,False,4,"Dallas, TX",Texas,6,Mississippi State,3
+2002,"March 17, 2002",West,Second Round,101,False,4,"Pittsburgh, PA",UCLA,8,Cincinnati,1
+2002,"March 16, 2002",West,Second Round,60,False,8,"Albuquerque, NM",Arizona,3,Wyoming,11
+2002,"March 16, 2002",South,Second Round,77,False,7,"Greenville, SC",Duke,1,Notre Dame,8
+2002,"March 16, 2002",South,Second Round,67,False,9,"Sacramento, CA",Indiana,5,UNC Wilmington,13
+2002,"March 16, 2002",Midwest,Second Round,63,False,23,"St. Louis, MO",Kansas,1,Stanford,8
+2002,"March 16, 2002",South,Second Round,58,False,13,"Greenville, SC",Kent State,10,Alabama,2
+2002,"March 16, 2002",East,Second Round,82,False,5,"St. Louis, MO",Kentucky,4,Tulsa,12
+2002,"March 16, 2002",West,Second Round,67,False,16,"Albuquerque, NM",Missouri,12,Ohio State,4
+2002,"March 16, 2002",Midwest,Second Round,87,False,5,"Sacramento, CA",Oregon,2,Wake Forest,7
+2002,"March 15, 2002",South,First Round,75,False,7,"Pittsburgh, PA",California,6,Penn,11
+2002,"March 15, 2002",West,First Round,52,False,38,"Pittsburgh, PA",Cincinnati,1,Boston University,16
+2002,"March 15, 2002",East,First Round,67,False,11,"Washington, DC",UConn,2,Hampton,15
+2002,"March 15, 2002",Midwest,First Round,82,False,1,"Chicago, IL",Creighton,12,Florida,5
+2002,"March 15, 2002",East,First Round,68,False,17,"Chicago, IL",Georgia,3,Murray State,14
+2002,"March 15, 2002",Midwest,First Round,64,False,29,"Chicago, IL",Illinois,4,San Diego State,13
+2002,"March 15, 2002",East,First Round,70,False,15,"Washington, DC",Maryland,1,Siena,16
+2002,"March 15, 2002",Midwest,First Round,58,False,12,"Dallas, TX",Mississippi State,3,McNeese State,14
+2002,"March 15, 2002",East,First Round,58,False,11,"Washington, DC",NC State,7,Michigan State,10
+2002,"March 15, 2002",West,First Round,63,False,8,"Dallas, TX",Oklahoma,2,UIC,15
+2002,"March 15, 2002",South,First Round,54,False,17,"Pittsburgh, PA",Pitt,3,Central Connecticut,14
+2002,"March 15, 2002",East,First Round,68,False,8,"Chicago, IL",Southern Illinois,11,Texas Tech,6
+2002,"March 15, 2002",Midwest,First Round,57,False,13,"Dallas, TX",Texas,6,Boston College,11
+2002,"March 15, 2002",West,First Round,58,False,22,"Pittsburgh, PA",UCLA,8,Ole Miss,9
+2002,"March 15, 2002",East,First Round,70,False,10,"Washington, DC",Wisconsin,8,St. John's (NY),9
+2002,"March 15, 2002",West,First Round,58,False,12,"Dallas, TX",Xavier,7,Hawaii,10
+2002,"March 14, 2002",South,First Round,78,False,8,"Greenville, SC",Alabama,2,Florida Atlantic,15
+2002,"March 14, 2002",West,First Round,81,False,5,"Albuquerque, NM",Arizona,3,UCSB,14
+2002,"March 14, 2002",South,First Round,37,False,47,"Greenville, SC",Duke,1,Winthrop,16
+2002,"March 14, 2002",South,First Round,56,False,19,"Sacramento, CA",Indiana,5,Utah,12
+2002,"March 14, 2002",Midwest,First Round,59,False,11,"St. Louis, MO",Kansas,1,Holy Cross,16
+2002,"March 14, 2002",South,First Round,61,False,8,"Greenville, SC",Kent State,10,Oklahoma State,7
+2002,"March 14, 2002",East,First Round,68,False,15,"St. Louis, MO",Kentucky,4,Valparaiso,13
+2002,"March 14, 2002",West,First Round,80,False,13,"Albuquerque, NM",Missouri,12,Miami (FL),5
+2002,"March 14, 2002",South,First Round,89,True,4,"Sacramento, CA",UNC Wilmington,13,USC,4
+2002,"March 14, 2002",South,First Round,63,False,19,"Greenville, SC",Notre Dame,8,Charlotte,9
+2002,"March 14, 2002",West,First Round,64,False,5,"Albuquerque, NM",Ohio State,4,Davidson,13
+2002,"March 14, 2002",Midwest,First Round,62,False,19,"Sacramento, CA",Oregon,2,Montana,15
+2002,"March 14, 2002",Midwest,First Round,68,False,16,"St. Louis, MO",Stanford,8,Western Kentucky,9
+2002,"March 14, 2002",East,First Round,69,False,2,"St. Louis, MO",Tulsa,12,Marquette,5
+2002,"March 14, 2002",Midwest,First Round,74,False,9,"Sacramento, CA",Wake Forest,7,Pepperdine,10
+2002,"March 14, 2002",West,First Round,66,False,7,"Albuquerque, NM",Wyoming,11,Gonzaga,6
+2002,"March 12, 2002",East,Opening Round,77,False,4,"Dayton, OH",Siena,16,Alcorn State,16
