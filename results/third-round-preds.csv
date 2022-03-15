@@ -1,0 +1,9 @@
+ATeam,ASeed,BTeam,BSeed,prob_a_wins,a_wins
+Baylor,1,Saint Mary's,5,0.8020374537906776,True
+Gonzaga,1,Arkansas,4,0.3037628437028892,False
+Tennessee,3,Villanova,2,0.4026190126112239,False
+Arizona,1,Houston,5,0.6679386018363522,True
+Texas Tech,3,Duke,2,0.6113703995027054,True
+Kansas,1,Iowa,5,0.6309334087980474,True
+LSU,6,Auburn,2,0.37586657488937986,False
+Virginia Tech,11,Kentucky,2,0.652406520543034,True

@@ -12,10 +12,19 @@ from sklearn import metrics
 
 def main():
     data = pd.read_csv("data/model-ready.csv")
+    predict_matchups = pd.read_csv("data/2022-predicted-round-six-matchups.csv")
 
     data["A_winperc"] = data["AW"] / (data["AW"] + data["AL"])
     data["B_winperc"] = data["BW"] / (data["BW"] + data["BL"])
     data.drop(columns=["Year", "OT", "AW", "AL", "BW", "BL"], inplace=True)
+
+    predict_matchups["A_winperc"] = predict_matchups["AW"] / (
+        predict_matchups["AW"] + predict_matchups["AL"]
+    )
+    predict_matchups["B_winperc"] = predict_matchups["BW"] / (
+        predict_matchups["BW"] + predict_matchups["BL"]
+    )
+    predict_matchups.drop(columns=["AW", "AL", "BW", "BL"], inplace=True)
 
     X, y = (
         data.loc[:, [c for c in data.columns if c != "A_team_wins"]],
@@ -49,6 +58,12 @@ def main():
         )
     )
     print(metrics.accuracy_score(y_test, pipe.predict(X_test)))
+
+    # Make predictions for 1st round games
+    predictions = predict_matchups[["ATeam", "ASeed", "BTeam", "BSeed"]].copy()
+    predictions["prob_a_wins"] = pipe.predict_proba(predict_matchups)[:, 1]
+    predictions["a_wins"] = pipe.predict(predict_matchups)
+    predictions.to_csv("results/sixth-round-preds.csv", index=False)
 
 
 if __name__ == "__main__":

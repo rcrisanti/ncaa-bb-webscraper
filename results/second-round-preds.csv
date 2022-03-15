@@ -1,0 +1,17 @@
+ATeam,ASeed,BTeam,BSeed,prob_a_wins,a_wins
+Michigan State,7,Duke,2,0.3862116464144114,False
+Gonzaga,1,Boise State,8,0.5066859480427867,True
+Murray State,7,Kentucky,2,0.2910736154640169,False
+Iowa,5,South Dakota State,13,0.8566486589873624,True
+Houston,5,Chattanooga,13,0.8573376911794757,True
+Miami (FL),10,Auburn,2,0.319737162774825,False
+Kansas,1,San Diego State,8,0.8830702069867598,True
+Baylor,1,UNC,8,0.8066758291924329,True
+UConn,5,Arkansas,4,0.46744590367579963,False
+Saint Mary's,5,UCLA,4,0.6107078824070121,True
+LSU,6,Wisconsin,3,0.7346068696527327,True
+Loyola (IL),10,Villanova,2,0.2500240226072271,False
+Arizona,1,TCU,9,0.8823581447767794,True
+Notre Dame,11,Texas Tech,3,0.14830261453572705,False
+Virginia Tech,11,Purdue,3,0.6480246382682199,True
+Colorado State,6,Tennessee,3,0.1323205790022071,False

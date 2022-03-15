@@ -1,0 +1,5 @@
+ATeam,ASeed,BTeam,BSeed,prob_a_wins,a_wins
+Baylor,1,Virginia Tech,11,0.6815524076211352,True
+Arizona,1,Villanova,2,0.6655329376548453,True
+Arkansas,4,Texas Tech,3,0.3328753770033258,False
+Kansas,1,Auburn,2,0.7571214160264216,True

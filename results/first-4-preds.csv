@@ -1,0 +1,5 @@
+ATeam,ASeed,BTeam,BSeed,prob_a_wins,a_wins
+Texas Southern,16,Texas A&M-Corpus Christi,16,0.02379484092079609,False
+Wyoming,12,Indiana,12,0.35429647145510645,False
+Rutgers,11,Notre Dame,11,0.238932120763015,False
+Wright State,16,Bryant,16,0.9747821816139699,True

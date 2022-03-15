@@ -33,7 +33,14 @@ EXTRA_TOURNEY_RES_TO_TEAM_STATS_TEAM_NAME_MAP = {
 }
 
 
-bracket_2022_matchups = {
+FIRST_FOUR_MATCHUPS = {
+    ("Texas Southern", "Texas A&M-Corpus Christi"),
+    ("Wyoming", "Indiana"),
+    ("Wright State", "Bryant"),
+    ("Rutgers", "Notre Dame"),
+}
+
+ROUND_1_MATCHUPS = {
     ("Colorado State", "Michigan"),
     ("Providence", "South Dakota State"),
     ("Boise State", "Memphis"),
@@ -44,28 +51,74 @@ bracket_2022_matchups = {
     ("UNC", "Marquette"),
     ("UConn", "New Mexico State"),
     ("Kentucky", "Saint Peter's"),
-    # ("Saint Mary's", "") # Result of play-in
+    ("Saint Mary's", "Indiana"),  # Predicted opponent
     ("San Diego State", "Creighton"),
     ("Arkansas", "Vermont"),
     ("Murray State", "San Francisco"),
     ("UCLA", "Akron"),
-    # ("Kansas", "")  # Result of play-in
+    ("Kansas", "Texas A&M-Corpus Christi"),  # Predicted opponent
     ("Ohio State", "Loyola (IL)"),
     ("Auburn", "Jacksonville State"),
     ("Texas Tech", "Montana St."),
     ("Purdue", "Yale"),
     ("Villanova", "Delaware"),
     ("USC", "Miami (FL)"),
-    # ("Alabama", "")
+    ("Alabama", "Notre Dame"),  # Predicted opponent
     ("Texas", "Virginia Tech"),
     ("Illinois", "Chattanooga"),
     ("Duke", "Cal State Fullerton"),
     ("LSU", "Iowa State"),
-    # ("Arizona", "")
+    ("Arizona", "Bryant"),  # Predicted opponent
     ("Houston", "UAB"),
     ("Michigan State", "Davidson"),
     ("Wisconsin", "Colgate"),
     ("Seton Hall", "TCU"),
+}
+
+PREDICTED_ROUND_2_MATCHUPS = {
+    ("Gonzaga", "Boise State"),
+    ("UConn", "Arkansas"),
+    ("Notre Dame", "Texas Tech"),
+    ("Michigan State", "Duke"),
+    ("Arizona", "TCU"),
+    ("Houston", "Chattanooga"),
+    ("Colorado State", "Tennessee"),
+    ("Loyola (IL)", "Villanova"),
+    ("Baylor", "UNC"),
+    ("Saint Mary's", "UCLA"),
+    ("Virginia Tech", "Purdue"),
+    ("Murray State", "Kentucky"),
+    ("Kansas", "San Diego State"),
+    ("Iowa", "South Dakota State"),
+    ("LSU", "Wisconsin"),
+    ("Miami (FL)", "Auburn"),
+}
+
+PREDICTED_ROUND_3_MATCHUPS = {
+    ("Gonzaga", "Arkansas"),
+    ("Texas Tech", "Duke"),
+    ("Arizona", "Houston"),
+    ("Tennessee", "Villanova"),
+    ("Baylor", "Saint Mary's"),
+    ("Virginia Tech", "Kentucky"),
+    ("Kansas", "Iowa"),
+    ("LSU", "Auburn"),
+}
+
+PREDICTED_ROUND_4_MATCHUPS = {
+    ("Arkansas", "Texas Tech"),
+    ("Arizona", "Villanova"),
+    ("Baylor", "Virginia Tech"),
+    ("Kansas", "Auburn"),
+}
+
+PREDICTED_ROUND_5_MATCHUPS = {
+    ("Baylor", "Texas Tech"),
+    ("Arizona", "Kansas"),
+}
+
+PREDICTED_ROUND_6_MATCHUPS = {
+    ("Arizona", "Texas Tech"),
 }
 
 
@@ -120,13 +173,13 @@ def main():
     # merged.to_csv("data/kenpom-team-stats-2022.csv", index=False)
 
     stats_2022 = pd.read_csv("data/kenpom-team-stats-2022.csv", index_col="Team")
-    round_matchups = create_matchups(bracket_2022_matchups, stats_2022)
+    round_matchups = create_matchups(PREDICTED_ROUND_6_MATCHUPS, stats_2022)
 
     # Get cols in same order
     train_data = pd.read_csv("data/model-ready.csv")
     train_data.drop(columns=["A_team_wins", "Year", "OT"], inplace=True)
     round_matchups[train_data.columns].to_csv(
-        "data/2022-first-round-matchups.csv", index=False
+        "data/2022-predicted-round-six-matchups.csv", index=False
     )
 
 

@@ -1,0 +1,33 @@
+ATeam,ASeed,BTeam,BSeed,prob_a_wins,a_wins
+Boise State,8,Memphis,9,0.7420051034178803,True
+UConn,5,New Mexico State,12,0.7772565541409336,True
+Alabama,6,Notre Dame,11,0.39262513599699667,False
+Tennessee,3,Longwood,14,0.9438812812558555,True
+Auburn,2,Jacksonville State,15,0.9544792881303006,True
+Gonzaga,1,Georgia State,16,0.9796841318072849,True
+Arkansas,4,Vermont,13,0.7452840013346289,True
+Duke,2,Cal State Fullerton,15,0.9692338753688053,True
+Purdue,3,Yale,14,0.9817334559865514,True
+USC,7,Miami (FL),10,0.4827834568551116,False
+Providence,4,South Dakota State,13,0.32838434447271786,False
+Texas,6,Virginia Tech,11,0.3322187584668493,False
+Baylor,1,Norfolk State,16,0.984652215631681,True
+Kansas,1,Texas A&M-Corpus Christi,16,0.9842995778966326,True
+Illinois,4,Chattanooga,13,0.4766150705771527,False
+LSU,6,Iowa State,11,0.6980284345373973,True
+Villanova,2,Delaware,15,0.8946599251871127,True
+Wisconsin,3,Colgate,14,0.6693241280280632,True
+Arizona,1,Bryant,16,0.9899873429902258,True
+Murray State,7,San Francisco,10,0.5603381448368062,True
+Saint Mary's,5,Indiana,12,0.7213039870700152,True
+Houston,5,UAB,12,0.7531328711732133,True
+UNC,8,Marquette,9,0.6673619095258665,True
+Iowa,5,Richmond,12,0.7775308293795138,True
+Michigan State,7,Davidson,10,0.5405975011796863,True
+Seton Hall,8,TCU,9,0.352459069970418,False
+UCLA,4,Akron,13,0.92175208909577,True
+Texas Tech,3,Montana St.,14,0.9328406685194429,True
+San Diego State,8,Creighton,9,0.5399204220992144,True
+Colorado State,6,Michigan,11,0.5810237099511241,True
+Kentucky,2,Saint Peter's,15,0.9845077069438081,True
+Ohio State,7,Loyola (IL),10,0.30390517069498846,False
