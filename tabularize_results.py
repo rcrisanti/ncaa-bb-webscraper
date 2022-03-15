@@ -52,10 +52,14 @@ def main():
     kenpom = kenpom_to_tabular("data/kenpom-data.json")
     tourney_res = tourney_res_to_tabular("data/tourney-results.json")
     team_stats = team_stats_to_tabular("data/team-stats.json")
-    
+
     kenpom.to_csv("data/kenpom-data.csv", index=True)
-    tourney_res.to_csv("data/tourney-results.csv", index=False)
-    team_stats.to_csv("data/team-stats.csv", index=False)
+    tourney_res.drop_duplicates(["Year", "WinningTeam", "LosingTeam"]).to_csv(
+        "data/tourney-results.csv", index=False
+    )
+    team_stats.drop_duplicates(["Team", "Year"]).to_csv(
+        "data/team-stats.csv", index=False
+    )
 
 
 if __name__ == "__main__":

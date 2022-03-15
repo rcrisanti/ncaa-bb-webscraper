@@ -104,14 +104,11 @@ Year,Date,Region,Round,PTS,OT,Diff,Location,WinningTeam,WinningSeed,LosingTeam,L
 2019,"March 22, 2019",South,First Round,72,False,23,"Columbia, SC",Oklahoma,9,Ole Miss,8
 2019,"March 22, 2019",South,First Round,70,False,7,"Columbus, OH",Tennessee,2,Colgate,15
 2019,"March 22, 2019",West,First Round,74,False,17,"Tulsa, OK",Buffalo,6,Arizona State,11
-2019,"March 22, 2019",Midwest,First Round,61,False,17,"Columbus, OH",Washington,9,Utah State,8
-2019,"March 22, 2019",South,First Round,56,False,15,"Columbia, SC",Virginia,1,Gardner-Webb,16
 2019,"March 22, 2019",Midwest,First Round,59,False,3,"Tulsa, OK",Ohio State,11,Iowa State,6
 2019,"March 22, 2019",South,First Round,64,False,6,"San Jose, CA",UC-Irvine,13,Kansas State,4
 2019,"March 22, 2019",East,First Round,58,False,15,"Columbia, SC",UCF,9,VCU,8
 2019,"March 22, 2019",Midwest,First Round,55,False,29,"Tulsa, OK",Houston,3,Georgia State,14
 2019,"March 22, 2019",East,First Round,76,False,4,"San Jose, CA",Liberty,12,Mississippi State,5
-2019,"March 22, 2019",East,First Round,52,False,14,"San Jose, CA",Virginia Tech,4,Saint Louis,13
 2019,"March 21, 2019",West,First Round,61,False,9,"Des Moines, IA",Florida,10,Nevada,7
 2019,"March 21, 2019",West,First Round,64,False,19,"Hartford, CT",Murray State,12,Marquette,5
 2019,"March 21, 2019",West,First Round,49,False,38,"Salt Lake City, UT",Gonzaga,1,Fairleigh Dickinson,16
@@ -309,7 +306,6 @@ Year,Date,Region,Round,PTS,OT,Diff,Location,WinningTeam,WinningSeed,LosingTeam,L
 2016,"March 18, 2016",West,First Round,72,False,3,"Oklahoma City, OK",Northern Iowa,11,Texas,6
 2016,"March 18, 2016",South,First Round,70,True,2,"Brooklyn, NY",Iowa,7,Temple,10
 2016,"March 18, 2016",West,First Round,67,False,8,"Oklahoma City, OK",VCU,10,Oregon State,7
-2016,"March 18, 2016",West,First Round,76,False,2,"Spokane, WA",St. Joseph's,8,Cincinnati,9
 2016,"March 18, 2016",Midwest,First Round,81,False,9,"St. Louis, MO",Middle Tennessee,15,Michigan State,2
 2016,"March 18, 2016",South,First Round,66,False,11,"Spokane, WA",Hawaii,13,California,4
 2016,"March 18, 2016",South,First Round,56,False,30,"Brooklyn, NY",Villanova,2,UNC Asheville,15
@@ -502,7 +498,6 @@ Year,Date,Region,Round,PTS,OT,Diff,Location,WinningTeam,WinningSeed,LosingTeam,L
 2013,"March 22, 2013",Midwest,Second Round,63,False,4,"Philadelphia, PA",Creighton,7,Cincinnati,10
 2013,"March 22, 2013",South,Second Round,71,False,7,"Kansas City, MO",UNC,8,Villanova,9
 2013,"March 22, 2013",Midwest,Second Round,61,False,12,"Philadelphia, PA",Duke,2,Albany (NY),15
-2013,"March 22, 2013",South,Second Round,47,False,32,"Austin, TX",Florida,3,Northwestern State,14
 2013,"March 22, 2013",South,Second Round,68,False,10,"Philadelphia, PA",Florida Gulf Coast,15,Georgetown,2
 2013,"March 22, 2013",South,Second Round,55,False,15,"Philadelphia, PA",San Diego State,7,Oklahoma,10
 2013,"March 22, 2013",West,Second Round,46,False,11,"Kansas City, MO",Ole Miss,12,Wisconsin,5
